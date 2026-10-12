@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-10-12T23:00:43.357001+00:00",
+  "checked_at": "2026-10-12T23:06:11.337774+00:00",
   "items": 10,
   "images": 41,
   "recent_items": 10,
   "unique_guids": 10,
-  "live_resources_checked": 0,
+  "live_resources_checked": 57,
   "articles": [
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/pervaya-zakupka-produktov/",
@@ -57,5 +57,291 @@
       "images": 5
     }
   ],
-  "resources": []
+  "resources": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/",
+      "status": 200,
+      "bytes": 11633
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/dozhdlivyi-den-doma/",
+      "status": 200,
+      "bytes": 11510
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/fotodnevnik-novogo-goroda/",
+      "status": 200,
+      "bytes": 11051
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/gosti-priehali-k-okeanu/",
+      "status": 200,
+      "bytes": 11166
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/mesto-dlya-veshchei-u-dveri/",
+      "status": 200,
+      "bytes": 10951
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/pervaya-zakupka-produktov/",
+      "status": 200,
+      "bytes": 11843
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/portugalskii-dlya-obychnogo-dnya/",
+      "status": 200,
+      "bytes": 11508
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/rabochee-mesto-u-okna/",
+      "status": 200,
+      "bytes": 11434
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/raion-u-okeana-arenda/",
+      "status": 200,
+      "bytes": 14168
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/raspakovka-bez-speshki/",
+      "status": 200,
+      "bytes": 11015
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/zvonki-blizkim-posle-pereezda/",
+      "status": 200,
+      "bytes": 11245
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/calls-1.jpg",
+      "status": 200,
+      "bytes": 284382
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/calls-2.jpg",
+      "status": 200,
+      "bytes": 321086
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/calls-3.jpg",
+      "status": 200,
+      "bytes": 292363
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/calls-4.jpg",
+      "status": 200,
+      "bytes": 320157
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/entry-1.jpg",
+      "status": 200,
+      "bytes": 309879
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/entry-2.jpg",
+      "status": 200,
+      "bytes": 226746
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/entry-3.jpg",
+      "status": 200,
+      "bytes": 274661
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/entry-4.jpg",
+      "status": 200,
+      "bytes": 258471
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/groceries-1.jpg",
+      "status": 200,
+      "bytes": 309450
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/groceries-2.jpg",
+      "status": 200,
+      "bytes": 328677
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/groceries-3.jpg",
+      "status": 200,
+      "bytes": 318311
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/groceries-4.jpg",
+      "status": 200,
+      "bytes": 273642
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/guests-1.jpg",
+      "status": 200,
+      "bytes": 300707
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/guests-2.jpg",
+      "status": 200,
+      "bytes": 338466
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/guests-3.jpg",
+      "status": 200,
+      "bytes": 325950
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/guests-4.jpg",
+      "status": 200,
+      "bytes": 269012
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/language-1.jpg",
+      "status": 200,
+      "bytes": 339805
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/language-2.jpg",
+      "status": 200,
+      "bytes": 326054
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/language-3.jpg",
+      "status": 200,
+      "bytes": 319747
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/language-4.jpg",
+      "status": 200,
+      "bytes": 296377
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/photos-1.jpg",
+      "status": 200,
+      "bytes": 483060
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/photos-2.jpg",
+      "status": 200,
+      "bytes": 353952
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/photos-3.jpg",
+      "status": 200,
+      "bytes": 446122
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/photos-4.jpg",
+      "status": 200,
+      "bytes": 334290
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/rain-1.jpg",
+      "status": 200,
+      "bytes": 456471
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/rain-2.jpg",
+      "status": 200,
+      "bytes": 402518
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/rain-3.jpg",
+      "status": 200,
+      "bytes": 320725
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/rain-4.jpg",
+      "status": 200,
+      "bytes": 336971
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/unpack-1.jpg",
+      "status": 200,
+      "bytes": 314062
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/unpack-2.jpg",
+      "status": 200,
+      "bytes": 324904
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/unpack-3.jpg",
+      "status": 200,
+      "bytes": 301857
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/unpack-4.jpg",
+      "status": 200,
+      "bytes": 340099
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/workspace-1.jpg",
+      "status": 200,
+      "bytes": 286914
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/workspace-2.jpg",
+      "status": 200,
+      "bytes": 248505
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/workspace-3.jpg",
+      "status": 200,
+      "bytes": 281469
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/articles/workspace-4.jpg",
+      "status": 200,
+      "bytes": 345335
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/cover.jpg",
+      "status": 200,
+      "bytes": 403532
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/evening.jpg",
+      "status": 200,
+      "bytes": 312208
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/route.jpg",
+      "status": 200,
+      "bytes": 365883
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/routine.jpg",
+      "status": 200,
+      "bytes": 230985
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/shops.jpg",
+      "status": 200,
+      "bytes": 458388
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/assets/style.css",
+      "status": 200,
+      "bytes": 5511
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/robots.txt",
+      "status": 200,
+      "bytes": 83
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/rss.xml",
+      "status": 200,
+      "bytes": 92351
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/sitemap.xml",
+      "status": 200,
+      "bytes": 1606
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/zen_p6MTk4IWSmm0FkHE33pwhp3IOTmb2s2Rk3e4oz1eahAHeu2xRCTtx70tyHenSlbU.html",
+      "status": 200,
+      "bytes": 108
+    }
+  ]
 }
