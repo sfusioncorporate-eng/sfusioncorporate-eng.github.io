@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-10-12T23:00:43.357001+00:00",
+  "items": 10,
+  "images": 41,
+  "recent_items": 10,
+  "unique_guids": 10,
+  "live_resources_checked": 0,
+  "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/pervaya-zakupka-produktov/",
+      "characters": 4017,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/rabochee-mesto-u-okna/",
+      "characters": 3864,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/dozhdlivyi-den-doma/",
+      "characters": 3846,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/portugalskii-dlya-obychnogo-dnya/",
+      "characters": 3828,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/mesto-dlya-veshchei-u-dveri/",
+      "characters": 3519,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/gosti-priehali-k-okeanu/",
+      "characters": 3702,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/fotodnevnik-novogo-goroda/",
+      "characters": 3622,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/zvonki-blizkim-posle-pereezda/",
+      "characters": 3664,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/raspakovka-bez-speshki/",
+      "characters": 3614,
+      "images": 4
+    },
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/raion-u-okeana-arenda/",
+      "characters": 5386,
+      "images": 5
+    }
+  ],
+  "resources": []
+}

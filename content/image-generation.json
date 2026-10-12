@@ -1,0 +1,65 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-12",
+  "format": "One independent 16:9 photorealistic editorial illustration per article block; no digital collages, labels or logos. Generated PNG originals converted to JPEG quality 88 for publication.",
+  "disclosure": "Иллюстрации созданы с помощью ИИ и не являются фотографиями конкретных мест или людей.",
+  "scene_descriptions": "See the image and alt fields of each block in new-articles.json, more-articles.json and final-articles.json.",
+  "final_prompts": [
+    {
+      "assets": [
+        "groceries-4"
+      ],
+      "prompt": "Use case: photorealistic-natural. Create ONE separate 16:9 landscape editorial photograph, no collage or panels, no text or logos, realistic natural textures and restrained colors. Home kitchen with a small batch of groceries being neatly put away: glass jar of rice, beans, tomatoes and leafy greens, open cupboard, simple everyday scene, afternoon light, no people required."
+    },
+    {
+      "assets": [
+        "entry-2"
+      ],
+      "prompt": "Use case: photorealistic-natural. Create ONE separate 16:9 landscape editorial photograph for a lifestyle journal about coastal Brazil. Single continuous canvas, realistic understated magazine photography. No collage, panels, text, watermarks, logos. Close up of simple ceramic tray with house keys and sunglasses on slim wooden shelf, quiet warm daylight, practical minimal hallway."
+    },
+    {
+      "assets": [
+        "groceries-1",
+        "groceries-2",
+        "groceries-3",
+        "workspace-1",
+        "workspace-2",
+        "workspace-3",
+        "workspace-4",
+        "rain-1",
+        "rain-2",
+        "rain-3",
+        "rain-4",
+        "language-1",
+        "language-2",
+        "language-3",
+        "language-4",
+        "entry-1",
+        "entry-3",
+        "entry-4",
+        "guests-1",
+        "guests-2",
+        "guests-3",
+        "guests-4"
+      ],
+      "prompt": "Edit this editorial photo. Keep the main foreground objects, people, room, composition and lighting intact. Replace ONLY all exterior scenery seen through windows, doors or behind a veranda. The background must show only close lush green foliage, a few ordinary low residential houses and sky, appropriate for an anonymous subtropical Brazilian neighborhood. Remove ALL mountain silhouettes, all rocky peaks, all distant skyline, all ocean, all beaches and bays. NO Rio de Janeiro views or recognizable landmarks anywhere. It is essential there is no sea, mountain or skyline visible. Preserve natural lighting, photographic realism and landscape 16:9. ONE continuous photograph, no collage, no text."
+    },
+    {
+      "assets": [
+        "photos-1",
+        "photos-2",
+        "photos-3",
+        "photos-4",
+        "calls-1",
+        "calls-2",
+        "calls-3",
+        "calls-4",
+        "unpack-1",
+        "unpack-2",
+        "unpack-3",
+        "unpack-4"
+      ],
+      "prompt": "Edit only the scenery in this photograph. Preserve the foreground people, objects, furniture and main scene. Replace ALL outdoor views, ALL views in any printed photograph or framed art, with anonymous flat residential greenery and ordinary low houses, no recognizable landmarks. Remove every mountain, pointed peak, rocky silhouette, coastline, beach, bay and ocean. Windows should show CLOSE GREEN TREES, ordinary low homes and sky ONLY. For the street scene, preserve the street and replace its distant backdrop with greenery. For printed photos, show ordinary everyday residential or indoor details with no sea or mountains. Absolutely no Rio de Janeiro views. Preserve photorealistic lighting and composition, landscape 16:9. No new text or panels."
+    }
+  ]
+}
