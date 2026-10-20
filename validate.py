@@ -19,11 +19,15 @@ NS = {'content':'http://purl.org/rss/1.0/modules/content/'}
 ALLOWED = {'p','a','b','i','u','s','h1','h2','h3','h4','blockquote','ul','ol','li','figure','figcaption','img','video','source'}
 
 def check():
+    scheduled = json.loads((ROOT/'content/scheduled-articles.json').read_text())
+    slots = [a['slot_id'] for a in scheduled]
+    assert len(slots) == len(set(slots)), 'Duplicate publication slot'
+    assert all(len(a['blocks']) == 4 for a in scheduled)
     feed = ET.parse(ROOT/'rss.xml')
     items = feed.findall('./channel/item')
-    assert len(items) == 10, f'Expected 10 items, got {len(items)}'
+    assert 10 <= len(items) <= 500, f'Unexpected item count: {len(items)}'
     guids = [i.findtext('guid') for i in items]
-    assert len(set(guids)) == 10
+    assert len(set(guids)) == len(items)
     urls = {BASE+'/rss.xml',BASE+'/',BASE+'/assets/style.css',BASE+'/robots.txt',BASE+'/sitemap.xml'}
     image_hashes = set()
     total_images = 0
@@ -75,7 +79,7 @@ def check():
         summaries.append({'url':link,'characters':len(fragment.text_content()),'images':len(imgs)})
     assert recent >= 3
     homepage = html.fromstring((ROOT/'index.html').read_text())
-    assert len(homepage.xpath('//a[@class="story"]')) == 10
+    assert len(homepage.xpath('//a[@class="story"]')) == len(items)
     token = homepage.xpath('//meta[@name="zen-verification"]/@content')[0]
     assert len(token) == 64
     verification_path = ROOT/f'zen_{token}.html'

@@ -17,7 +17,7 @@ def esc(value):
     return escape(str(value), quote=True)
 
 def build():
-    sources = ['new-articles.json', 'more-articles.json', 'final-articles.json']
+    sources = ['new-articles.json', 'more-articles.json', 'final-articles.json', 'scheduled-articles.json']
     articles = [a for source in sources for a in json.loads((CONTENT/source).read_text())]
     state_path = CONTENT/'publication-dates.json'
     dates = json.loads(state_path.read_text()) if state_path.exists() else {}
@@ -35,6 +35,7 @@ def build():
     header = home.split('<body>')[1].split('<main')[0]
     footer = home[home.index('<footer>'):]
     cards, items, stats = [], [], []
+    articles.sort(key=lambda a: dates[a['slug']], reverse=True)
     for a in articles:
         slug = a['slug']
         url = f'{BASE}/articles/{slug}/'
@@ -80,7 +81,7 @@ def build():
     if not old_card_path.exists():
         old_card_path.write_text(re.search(r'<a class="story".*?</a>', home, re.S).group())
     cards.append(old_card_path.read_text())
-    (ROOT/'index.html').write_text(before + '<section class="latest" aria-labelledby="latest-title"><div class="section-line"><h2 id="latest-title">Истории журнала</h2><span>10 материалов</span></div>' + '\n'.join(cards)+'</section></main>'+footer)
+    (ROOT/'index.html').write_text(before + f'<section class="latest" aria-labelledby="latest-title"><div class="section-line"><h2 id="latest-title">Истории журнала</h2><span>{len(cards)} материалов</span></div>' + '\n'.join(cards)+'</section></main>'+footer)
     old_page = ROOT/'articles/raion-u-okeana-arenda/index.html'
     old_page.write_text(re.sub(r'<meta name="zen-verification"[^>]+>\s*', '', old_page.read_text()))
     rss_header = f'''<?xml version="1.0" encoding="UTF-8"?>
