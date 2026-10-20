@@ -12,7 +12,6 @@ ROOT = Path(__file__).resolve().parent
 BASE = 'https://sfusioncorporate-eng.github.io'
 DZEN = 'https://dzen.ru/id/68a7478389764b0a8542426d'
 CONTENT = ROOT / 'content'
-NOTE = 'Иллюстрации созданы с помощью ИИ и не являются фотографиями конкретных мест или людей.'
 
 def esc(value):
     return escape(str(value), quote=True)
@@ -51,7 +50,9 @@ def build():
             body_parts += [f'<p>{esc(p)}</p>' for p in block['paragraphs']]
             if slug == 'dozhdlivyi-den-doma' and i == 0:
                 body_parts.append('<p>Проверить актуальные предупреждения можно на <a href="https://www.defesacivil.sc.gov.br/alerta/">официальной странице Defesa Civil Santa Catarina</a>.</p>')
-        body_parts.append(f'<p><i>{NOTE}</i></p>')
+        cta = a.get('cta')
+        if cta:
+            body_parts.append(f'<p>{esc(cta["text"])} <a href="{esc(cta["url"])}">{esc(cta["label"])}</a>.</p>')
         body = '\n'.join(body_parts)
         cover = f"{BASE}/assets/articles/{a['blocks'][0]['image']}.jpg"
         cover_path = ROOT/'assets/articles'/f"{a['blocks'][0]['image']}.jpg"
