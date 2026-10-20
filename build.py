@@ -51,6 +51,10 @@ def build():
             body_parts += [f'<p>{esc(p)}</p>' for p in block['paragraphs']]
             if slug == 'dozhdlivyi-den-doma' and i == 0:
                 body_parts.append('<p>Проверить актуальные предупреждения можно на <a href="https://www.defesacivil.sc.gov.br/alerta/">официальной странице Defesa Civil Santa Catarina</a>.</p>')
+        source_labels = a.get('source_labels', [])
+        if a.get('sources') and source_labels:
+            links = [f'<a href="{esc(url)}">{esc(label)}</a>' for url, label in zip(a['sources'], source_labels)]
+            body_parts.append('<p>Источники: ' + '; '.join(links) + '.</p>')
         cta = a.get('cta')
         if cta:
             body_parts.append(f'<p>{esc(cta["text"])} <a href="{esc(cta["url"])}">{esc(cta["label"])}</a>.</p>')

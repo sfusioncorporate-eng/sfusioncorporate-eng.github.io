@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-20T13:37:52.732772+00:00",
-  "items": 10,
-  "images": 41,
-  "recent_items": 10,
-  "unique_guids": 10,
+  "checked_at": "2026-10-20T21:00:08.620798+00:00",
+  "items": 11,
+  "images": 45,
+  "recent_items": 11,
+  "unique_guids": 11,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/obed-na-ves-v-brazilii/",
+      "characters": 5207,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/pervaya-zakupka-produktov/",
       "characters": 4008,
@@ -57,5 +62,19 @@
       "images": 5
     }
   ],
-  "resources": []
+  "resources": [],
+  "release_check": {
+    "slot_id": "2026-10-20-evening",
+    "old_guids_dates_unchanged": 10,
+    "new_articles": 1,
+    "new_images": 4,
+    "new_image_dimensions": [
+      1600,
+      900
+    ],
+    "editorial_score": 90,
+    "characters": 5039,
+    "image_visual_review": "Each separate image inspected; coherent scene, no collage, no textual artifacts",
+    "dzen_import": "unconfirmed"
+  }
 }

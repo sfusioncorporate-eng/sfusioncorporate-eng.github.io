@@ -1,1 +1,103 @@
-[]
+[
+  {
+    "slug": "obed-na-ves-v-brazilii",
+    "title": "Обед на вес в Бразилии: как понять цену до кассы и не платить за вес тарелки",
+    "description": "Что означают por quilo и buffet livre, как посчитать стоимость порции и какие вопросы задать до того, как наполните тарелку.",
+    "section": "Еда и повседневность",
+    "slot_id": "2026-10-20-evening",
+    "blocks": [
+      {
+        "heading": "Сначала выясните, за что платите: вес или вход к буфету",
+        "image": "obed-na-ves-v-brazilii-1",
+        "alt": "Линия раздачи с рисом, фасолью, овощами и курицей в ресторане самообслуживания",
+        "paragraphs": [
+          "Представьте: вы заходите пообедать в Бразилии. Перед вами длинная раздача, рис, фасоль, салаты и горячее. Берёте понемногу, а у кассы тарелку ставят на весы. Если вы ожидали шведский стол с одной ценой за всё, именно здесь и возникает сюрприз: стоимость обеда зависит от каждого добавленного кусочка.",
+          "Чтобы понять будущий счёт, достаточно разобраться в формате, цене за килограмм и том, что входит в оплату. Это пригодится и в поездке, и после переезда: можно самостоятельно выбрать еду, даже когда длинное меню на португальском пока утомляет.",
+          "Надпись por quilo означает оплату по весу еды. Buffet livre — буфет за фиксированную сумму, в пределах условий заведения. Sebrae описывает оба варианта как модели self-service. Поэтому одного слова self-service недостаточно, чтобы узнать цену: оно говорит о самообслуживании, но не определяет способ расчёта.",
+          "До начала раздачи спросите: «É por quilo ou buffet livre?» — «Здесь по весу или буфет за фиксированную цену?» Если доступны оба варианта, уточните, как выбрать нужный. Не рассчитывайте, что на кассе автоматически применят более выгодный для вас тариф: сначала нужно понять предложение конкретного ресторана."
+        ]
+      },
+      {
+        "heading": "Переведите цену за килограмм в стоимость своей порции",
+        "image": "obed-na-ves-v-brazilii-2",
+        "alt": "Тарелка с рисом, чёрной фасолью, курицей и салатом на деревянном столе",
+        "paragraphs": [
+          "Крупное число рядом с R$/kg — стоимость килограмма еды, а не готового обеда. Формула простая: вес еды в граммах разделить на 1000 и умножить на цену килограмма. До взвешивания получится только оценка; точную сумму вы увидите на весах.",
+          "Возьмём условный пример, не прайс реального заведения: килограмм стоит R$ 80. Тогда 350 граммов обойдутся в R$ 28, 500 граммов — в R$ 40, а 650 граммов — в R$ 52. Каждые дополнительные 100 граммов добавляют R$ 8. Так становится понятнее, почему одинаково выглядящие по размеру тарелки могут дать разный счёт.",
+          "Перед тем как накладывать, посмотрите всю раздачу. Если сначала взять рис и фасоль, потом заметить ещё несколько интересных блюд, порция незаметно увеличится. Выберите то, что действительно хочется попробовать, и начните с небольшого количества незнакомой еды. Это совет по выбору порции, а не призыв исключать гарнир ради «выгоды».",
+          "Когда рядом указаны разные тарифы или отдельно стоит гриль, спросите: «Tudo tem o mesmo preço por quilo?» — «У всего одинаковая цена за килограмм?» Единую цену лучше подтвердить, чем предположить. И не переносите цифры из этого примера на Флорианополис или другой город: актуальную стоимость смотрят на месте."
+        ]
+      },
+      {
+        "heading": "На весах проверьте три числа и вычет тарелки",
+        "image": "obed-na-ves-v-brazilii-3",
+        "alt": "Тарелка с обедом на платформе ресторанных весов, вид сбоку",
+        "paragraphs": [
+          "На взвешивании важны вес самой еды, цена за единицу веса и итоговая сумма. Именно эти показатели перечислены в актуальном разъяснении Inmetro о продаже еды на вес. Сверьте цену килограмма с той, которую видели перед раздачей, и проверьте, что сумма соответствует показанному весу.",
+          "Есть ещё одно полезное слово — tara: вес пустой посуды. Керамическая тарелка не должна оплачиваться как еда. Информация о весе используемых ёмкостей должна быть размещена так, чтобы покупатель мог её увидеть. Эти требования подтверждает и IMETRO-SC, служба метрологии Санта-Катарины.",
+          "Не пытайтесь угадать ошибку по тому, насколько тяжёлой кажется тарелка в руке. Лучше спокойно уточнить: «A tara do prato já foi descontada?» — «Вес тарелки уже вычтен?» Если цифры вызывают сомнение, попросите сотрудника объяснить расчёт и проверить, какая тара применяется к этой посуде.",
+          "Например, при цене R$ 80 за килограмм и чистом весе еды 0,450 кг стоимость еды составит R$ 36. Вес пустой тарелки не нужно прибавлять обратно. Важно сопоставлять одинаковые величины: массу еды с ценой еды, а не весь предмет на весах с итоговой стоимостью обеда."
+        ]
+      },
+      {
+        "heading": "Напитки и десерт уточняйте до заказа",
+        "image": "obed-na-ves-v-brazilii-4",
+        "alt": "Кофе, стакан воды и порция карамельного пудинга на столе",
+        "paragraphs": [
+          "Цена взвешенной тарелки ещё не объясняет весь счёт, если вы берёте что-то дополнительно. До заказа воды, сока, кофе или десерта уточните их стоимость и включены ли они в выбранный вариант. Само расположение сладкого рядом с раздачей не говорит, как оно оплачивается.",
+          "Для этого пригодится вопрос: «A bebida e a sobremesa estão incluídas?» — «Напиток и десерт включены?» Если ответ отрицательный, попросите показать цены. При buffet livre заодно уточните, какие блюда входят и можно ли подходить повторно: название формата не заменяет условия конкретного предложения.",
+          "Чтобы сравнить два места, считайте одинаковый обед. В нашем условном примере тарелка на 500 граммов стоит R$ 40 без дополнений. Если в другом месте буфет предлагается за фиксированную сумму, сравнивайте её с этими R$ 40 только при сопоставимом составе и отдельно учитывайте напиток. Меньшее число на вывеске само по себе ещё не означает меньший итог.",
+          "Перед первым обедом сохраните четыре ориентира: формат, цена килограмма, вычет тарелки и стоимость дополнений. Тогда раздача становится удобным способом познакомиться с едой в Бразилии: вы выбираете сочетания и количество, а счёт остаётся понятным. Сведения о форматах и взвешивании проверены 20 октября 2026 года по материалам Sebrae, Inmetro и IMETRO-SC; все суммы выше — учебные примеры."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "О других деталях повседневной жизни в Бразилии рассказываем в Instagram «Гео Неважно».",
+      "url": "https://www.instagram.com/geonevazhno/",
+      "label": "Перейти в @geonevazhno"
+    },
+    "sources": [
+      "https://bibliotecas.sebrae.com.br/chronus/ARQUIVOS_CHRONUS/IDEIAS_DE_NEGOCIO/PDFS/ideia-de-negocio_restaurante-self-service.pdf",
+      "https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/metrologia-legal/pre-medidos/qual-a-portaria-das-regras-para-comercializacao-de-alimentos-a-peso-tara",
+      "https://imetro.sc.gov.br/perguntas-frequentes/",
+      "https://www.imetro.sc.gov.br/balanca/"
+    ],
+    "checked_at": "2026-10-20",
+    "editorial_score": 90,
+    "image_prompts": [
+      "Use case: photorealistic-natural. Single editorial photograph for an article about eating by weight in Brazil. Landscape 16:9, 1600x900 or larger exact 16:9. A welcoming ordinary Brazilian self-service lunch restaurant, stainless steel buffet with rice, black beans, roasted vegetables and grilled chicken, clean glass sneeze guard, stack of white plates at the beginning, warm wood and daylight. Eye-level wide scene, appetizing true food textures, restrained documentary aesthetic. Generic fictional restaurant, no identifiable real address or brand. No readable signs, no price labels, no lettering, no watermark. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case: photorealistic-natural. Single landscape 16:9 editorial photo, exact 16:9 at least 1600x900. Close three-quarter view of one white ceramic lunch plate on a wooden table in an ordinary Brazilian restaurant: modest separate servings of white rice, black beans, grilled chicken, lettuce and tomato. Fork and knife neatly alongside, soft window light, authentic appetizing texture, shallow depth of field, no text or numbers, no receipt, no logo. One coherent scene, generic fictional interior. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case: photorealistic-natural. One single exact landscape 16:9 editorial photograph at least 1600x900. A white plate with rice, black beans and vegetables resting on the stainless weighing platform of a commercial food scale at a generic Brazilian self-service restaurant. Camera looks from the side at plate and platform, the scale display is turned away from camera and not visible, cashier counter softly blurred, realistic device with platform and lower housing, no people, natural afternoon daylight, tactile realistic food and ceramic. No readable text, no logos, no invented display digits. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case: photorealistic-natural. One separate exact 16:9 landscape editorial photograph at least 1600x900. Quiet end of a lunch at a generic Brazilian neighborhood restaurant: foreground a small white espresso cup and saucer, clear glass of water and a small slice of caramel flan on its own plate, on a wooden table; background softly blurred lunch counter and daylight through open window. Cozy candid photography, believable portions and realistic textures, no people, no text, no logo, no receipt or prices, fictional location not an identifiable venue. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS."
+    ],
+    "editorial_review": {
+      "title_candidates": [
+        "Обед на вес в Бразилии: как понять цену до кассы и не платить за вес тарелки",
+        "Почему обед в Бразилии взвешивают: четыре проверки перед оплатой",
+        "Por quilo в Бразилии: сколько стоит ваша тарелка и что проверить на весах"
+      ],
+      "scores": {
+        "headline": 18,
+        "utility_local_context": 23,
+        "structure": 18,
+        "clarity": 14,
+        "accuracy": 9,
+        "cta": 8
+      },
+      "corrections": [
+        "Все цены явно отмечены как условные, исключены заявления о средних ценах.",
+        "Убрано предположение об автоматическом применении выгодного тарифа.",
+        "Дополнения и повторные подходы предлагается уточнять по условиям заведения.",
+        "Убраны вымышленные адреса и личный опыт."
+      ],
+      "fact_check": "Форматы подтверждены Sebrae; чистый вес, цена и тара — Inmetro и IMETRO-SC. Арифметика проверена. Тема не повторяет десять статей архива.",
+      "image_provenance": "Четыре отдельные генерации image_gen, условный ресторан, не документальная съёмка адреса."
+    },
+    "source_labels": [
+      "Sebrae: форматы self-service",
+      "Inmetro: еда на вес и тара",
+      "IMETRO-SC: вопросы о взвешивании",
+      "IMETRO-SC: проверка весов"
+    ]
+  }
+]
