@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "automation_id": "6ad76f058e188191b88e591f6ab306b4",
+  "timezone": "America/Sao_Paulo",
+  "preparation_windows": ["09:00", "18:00"],
+  "timing_mode": "flexible_schedule",
+  "first_scheduled_start": "2026-10-20T18:00:00-03:00",
+  "first_automated_release_verified": false,
+  "rss_import_test_confirmed_by_owner": "2026-10-20",
+  "dzen_automatic_import_monitoring": false
+}
