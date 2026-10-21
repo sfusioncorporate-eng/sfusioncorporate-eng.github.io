@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-21T00:07:38.724847+00:00",
-  "items": 11,
-  "images": 45,
-  "recent_items": 11,
-  "unique_guids": 11,
+  "checked_at": "2026-10-21T23:29:13.333168+00:00",
+  "items": 12,
+  "images": 49,
+  "recent_items": 12,
+  "unique_guids": 12,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/florianopolis-proverka-vody-pered-plyazhem/",
+      "characters": 5496,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/obed-na-ves-v-brazilii/",
       "characters": 5191,

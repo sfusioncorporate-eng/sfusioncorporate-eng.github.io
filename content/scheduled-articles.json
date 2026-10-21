@@ -99,5 +99,107 @@
       "IMETRO-SC: вопросы о взвешивании",
       "IMETRO-SC: проверка весов"
     ]
+  },
+  {
+    "slug": "florianopolis-proverka-vody-pered-plyazhem",
+    "title": "Красивый пляж — ещё не разрешение купаться: как проверить воду во Флорианополисе",
+    "description": "Как найти нужную точку на карте IMA, прочитать результат анализа и не перепутать качество воды с предупреждением о волнах.",
+    "section": "Пляжи и путешествия",
+    "slot_id": "2026-10-21-morning",
+    "blocks": [
+      {
+        "heading": "Ищите на карте свой вход на пляж, а не только название",
+        "image": "florianopolis-proverka-vody-pered-plyazhem-1",
+        "alt": "Сумка с полотенцем и телефон перед поездкой на побережье",
+        "paragraphs": [
+          "Представьте: во Флорианополисе солнечное утро, полотенца собраны, океан на фотографиях прозрачный. Остаётся выбрать пляж. Но снимок не отвечает на вопрос, подходит ли вода для купания. Для этого в Санта-Катарине есть отдельный мониторинг — balneabilidade, который ведёт природоохранный институт IMA.",
+          "Перед выездом откройте balneabilidade.ima.sc.gov.br. Выберите муниципалитет Florianópolis и нужный пляж в разделе Praias либо найдите его на карте. Дальше нужен конкретный пункт наблюдения: сопоставьте описание места с тем входом на пляж, которым собираетесь воспользоваться. Ссылка на официальный сервис есть в источниках под статьёй.",
+          "Почему недостаточно слова «Кампеше»? В отчёте IMA отдельно перечислены, например, точка 35 напротив Avenida Pequeno Príncipe и точка 90 у Rua Campos Limpos, рядом с Lomba do Sabão. Это разные места отбора проб на одном пляже. Результат у одного входа нельзя автоматически переносить на всю береговую линию.",
+          "Сохраните описание нужного пункта, чтобы на месте не выяснять, какую именно отметку вы смотрели. Если выбираете между двумя пляжами, сравните оба до поездки. Общая новость о состоянии побережья помогает понять ситуацию, но для вашего маршрута полезнее конкретная карточка."
+        ]
+      },
+      {
+        "heading": "Прочитайте статус вместе с датой отбора пробы",
+        "image": "florianopolis-proverka-vody-pered-plyazhem-2",
+        "alt": "Прозрачная прибрежная волна: внешний вид воды не заменяет анализ",
+        "paragraphs": [
+          "Próprio означает, что пункт соответствует критериям пригодности для купания, impróprio — не соответствует. В легенде сервиса есть и indeterminado: статус не определён. Его нельзя читать как «всё хорошо». Если данные неясны или отсутствуют, подтверждения пригодности у вас нет.",
+          "Рядом проверьте data da coleta — дату отбора пробы. Дата публикации отчёта и день, когда воду взяли на анализ, могут различаться. Когда статья готовилась 21 октября 2026 года, последним в списке IMA был отчёт от 16 октября. Это датированный результат наблюдений, а не измерение воды в момент вашего приезда.",
+          "Классификация опирается на лабораторные показатели, в том числе концентрацию бактерии Escherichia coli. Прозрачность, красивый оттенок и отсутствие видимого мусора такой анализ не заменяют. При impróprio от купания в этом месте следует отказаться; при próprio всё равно остаются другие условия, которые нужно проверить.",
+          "Во Флорианополисе это относится и к лагунам. Например, в Lagoa da Conceição IMA выделяет несколько пунктов, в том числе вдоль Avenida das Rendeiras. Фраза «в лагуне можно купаться» без указания места и даты слишком расплывчата. Удобнее записать три вещи: пункт, статус, дата пробы — и сверить их снова в день поездки."
+        ]
+      },
+      {
+        "heading": "После сильного дождя хорошая отметка не отменяет осторожность",
+        "image": "florianopolis-proverka-vody-pered-plyazhem-3",
+        "alt": "Мокрая набережная и океан после дождя, условный прибрежный пейзаж",
+        "paragraphs": [
+          "Представьте другую ситуацию: вчера вечером прошёл сильный дождь, а утром небо уже чистое. На карте сохранился благоприятный результат более ранней пробы. Здесь важно учитывать событие, случившееся после измерения: вода могла измениться, даже если новая отметка ещё не появилась.",
+          "В рекомендациях к отчёту от 16 октября IMA советует избегать купания в первые 24–48 часов после интенсивных дождей, особенно около выходов каналов и ливневых стоков. Причина — сток может приносить загрязняющие вещества в воду. Это рекомендация для конкретного погодного обстоятельства, а не утверждение, что после любого дождя всё побережье одинаково загрязнено.",
+          "Не превращайте 48 часов в автоматический таймер безопасности. Истечение этого срока само по себе не подтверждает качество воды: снова нужны актуальные данные и оценка обстановки. И не выбирайте место у впадающего потока лишь потому, что там мелко и удобно зайти. Мелководье не отвечает на вопрос о загрязнении.",
+          "Если дождь заставил отказаться от купания, заранее отделите его от самой поездки. Можно выбрать прогулку по подходящему маршруту при благоприятной погоде или перенести пляжный день. Это проще, когда запасной план появился дома, а не после долгой дороги с ожиданием, что окунуться нужно обязательно."
+        ]
+      },
+      {
+        "heading": "На берегу отдельно проверьте флаги и пост спасателей",
+        "image": "florianopolis-proverka-vody-pered-plyazhem-4",
+        "alt": "Красный сигнальный флаг на песке на фоне сильного прибоя",
+        "paragraphs": [
+          "Хороший результат анализа воды не сообщает, насколько опасны волны и течения. Поэтому следующая проверка — спасательный пост и сигналы на самом берегу. В рекомендациях CBMSC, пожарно-спасательной службы Санта-Катарины, зелёный флаг означает низкий риск утопления, жёлтый — средний, красный — высокий. Низкий риск не означает его отсутствие.",
+          "Не смешивайте две системы: отметка IMA относится к пригодности воды для купания, а сигнальные флаги спасателей — к другим опасностям на пляже. Красный флаг нельзя отменить аргументом «но вода же чистая». Следуйте указаниям дежурящих спасателей, даже если утром приложение показывало более спокойные условия.",
+          "Проверить действующие посты и сигналы можно в приложении CBMSC Cidadão; на месте ориентируйтесь на актуальную обстановку и сотрудников. CBMSC рекомендует выбирать пляжи с работающими постами. Чёрный флаг обозначает, что пост не действует. Если рядом нет спасателя, это не повод самостоятельно считать место безопасным.",
+          "Перед купанием соберите четыре ответа: какой пункт IMA вы проверили, когда взяли пробу, были ли после неё сильные дожди и что сейчас показывают флаги. Эта привычка полезнее сохранённого навсегда списка «лучших пляжей». Красивый вид остаётся поводом приехать к океану, а решение войти в воду требует отдельной проверки."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "За повседневными историями о жизни в Бразилии заглядывайте на YouTube-канал «Гео Неважно».",
+      "url": "https://www.youtube.com/@geonevazhno",
+      "label": "Смотреть канал"
+    },
+    "sources": [
+      "https://balneabilidade.ima.sc.gov.br/",
+      "https://balneabilidade.ima.sc.gov.br/relatorio/downloadPDF/2026-10-16",
+      "https://www.cbm.sc.gov.br/index.php/blog-de-noticias/com-aumento-no-efetivo-de-guarda-vidas-cbmsc-conclui-pre-temporada-da-estacao-verao-2025?format=amp",
+      "https://www.cbm.sc.gov.br/index.php/blog-de-noticias/mais-de-800-mil-acoes-de-prevencao-marcam-atuacao-do-cbmsc-no-reveillon-em-santa-catarina"
+    ],
+    "source_labels": [
+      "IMA: карта, пункты и даты анализов",
+      "IMA: отчёт от 16 октября 2026 года и рекомендации после дождя",
+      "CBMSC: значения флагов и работающие посты",
+      "CBMSC: возможности приложения Cidadão"
+    ],
+    "checked_at": "2026-10-21",
+    "editorial_score": 91,
+    "editorial_review": {
+      "title_candidates": [
+        "Красивый пляж — ещё не разрешение купаться: как проверить воду во Флорианополисе",
+        "Перед пляжем во Флорианополисе: четыре проверки, которые не заменит фото океана",
+        "Где купаться во Флорианополисе: как читать карту качества воды и сигналы спасателей"
+      ],
+      "scores": {
+        "headline": 19,
+        "utility_local_context": 24,
+        "structure": 18,
+        "clarity": 14,
+        "accuracy": 9,
+        "cta": 7
+      },
+      "corrections": [
+        "Вместо списка безопасных пляжей дан алгоритм с проверкой конкретной точки и даты.",
+        "Разделены лабораторная пригодность воды и риск утопления; зелёный флаг не назван гарантией безопасности.",
+        "Уточнено, что 48 часов после дождя не гарантируют восстановление качества воды.",
+        "Не перенесены статусы из отчёта от 16 октября на день выпуска; добавлены два проверенных местных примера.",
+        "Неоднозначная HTML-версия отчёта не использована для статусов пляжей; скачан и прочитан исходный PDF."
+      ],
+      "fact_check": "Первичные источники IMA и CBMSC проверены 21 октября 2026. PDF IMA скачан и прочитан: точки Кампеше, Лагоа-да-Консейсан, методика и рекомендация 24–48 часов подтверждены. Личные истории и текущие статусы пляжей не заявлены. Тема не повторяет 11 материалов архива.",
+      "image_provenance": "Четыре отдельные генерации image_gen, просмотрены отдельно. Обобщённые прибрежные сцены, не фотографии конкретных пляжей; четвёртая иллюстрация показывает красный сигнальный флаг."
+    },
+    "image_prompts": [
+      "Use case: photorealistic-natural. One separate editorial photograph, exact landscape 16:9, 1600x900 or larger. A packed canvas beach tote with folded turquoise towel and a smartphone lying face down on a sunlit wooden veranda table, beyond it softly blurred sandy shoreline, green coastal vegetation and Atlantic ocean in southern Brazil. Main focus on preparing for a beach trip, authentic lived-in textures, bright natural morning light, sophisticated magazine photography. A generic fictional coastal setting, not a specific beach or real landmark. No text, no logos, no readable screens, no people. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case: photorealistic-natural. One separate editorial photograph, exact landscape 16:9, at least 1600x900. Close low angle view of a shallow clear breaking wave washing across pale sand, a modest green headland far in background, sunlight glinting on translucent water, southern Brazilian Atlantic coastal atmosphere. Beautiful inviting water but purely visual illustration, no claim about actual water quality. Generic fictional coast not identifiable as any specific beach. Natural color, finely detailed foam and sand, polished documentary photography, no people, no text, no signs, no logos. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case: photorealistic-natural. One separate editorial photograph, exact landscape 16:9, at least 1600x900. Rain falling on a small coastal promenade in southern Brazil, puddles reflecting a clouded sky, wet wooden bench in foreground and ocean surf behind, lush low coastal plants, calm contemplative mood after a heavy shower. No flooding disaster, no dramatic lightning, no people in the water. Generic fictional location without recognizable landmarks, natural textures, documentary magazine photo, no text, no logos, no signs. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case: photorealistic-natural. One separate landscape 16:9 editorial photograph at least 1600x900. A single plain red rectangular beach safety flag on a slim pole planted in pale sand, strong ocean waves in background, steady coastal wind visibly blowing flag, generic southern Brazilian Atlantic coast with low green dunes. One coherent simple scene, realistic flag cloth, natural overcast daylight, crisp photojournalistic composition. No people swimming, no writing on flag, no logos, no signs, no watermark, no identifiable real beach. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS."
+    ]
   }
 ]
