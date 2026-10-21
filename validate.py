@@ -19,6 +19,15 @@ NS = {'content':'http://purl.org/rss/1.0/modules/content/'}
 ALLOWED = {'p','a','b','i','u','s','h1','h2','h3','h4','blockquote','ul','ol','li','figure','figcaption','img','video','source'}
 
 def check():
+    # Owner rule: social CTA points only to the confirmed YouTube channel.
+    for source in ['new-articles.json', 'more-articles.json', 'final-articles.json', 'scheduled-articles.json']:
+        for article in json.loads((ROOT/'content'/source).read_text()):
+            cta = article.get('cta')
+            if cta:
+                assert cta['url'] == 'https://www.youtube.com/@geonevazhno', 'CTA must point to the confirmed YouTube channel'
+    for path in [ROOT/'rss.xml', ROOT/'index.html', *ROOT.glob('articles/*/index.html')]:
+        text = path.read_text().lower()
+        assert not any(term in text for term in ['instagram', 'facebook', 'инстаграм', 'фейсбук']), f'Forbidden social promotion: {path}'
     scheduled = json.loads((ROOT/'content/scheduled-articles.json').read_text())
     slots = [a['slot_id'] for a in scheduled]
     assert len(slots) == len(set(slots)), 'Duplicate publication slot'
