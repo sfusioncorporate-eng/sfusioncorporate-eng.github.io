@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-24T13:42:45.481163+00:00",
-  "items": 13,
-  "images": 53,
-  "recent_items": 13,
-  "unique_guids": 13,
+  "checked_at": "2026-10-24T21:08:38.420037+00:00",
+  "items": 14,
+  "images": 57,
+  "recent_items": 14,
+  "unique_guids": 14,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/rozetki-v-brazilii-proverka-priborov/",
+      "characters": 5660,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/adres-dostavki-v-brazilii/",
       "characters": 5814,
