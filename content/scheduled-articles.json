@@ -201,5 +201,106 @@
       "Use case: photorealistic-natural. One separate editorial photograph, exact landscape 16:9, at least 1600x900. Rain falling on a small coastal promenade in southern Brazil, puddles reflecting a clouded sky, wet wooden bench in foreground and ocean surf behind, lush low coastal plants, calm contemplative mood after a heavy shower. No flooding disaster, no dramatic lightning, no people in the water. Generic fictional location without recognizable landmarks, natural textures, documentary magazine photo, no text, no logos, no signs. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
       "Use case: photorealistic-natural. One separate landscape 16:9 editorial photograph at least 1600x900. A single plain red rectangular beach safety flag on a slim pole planted in pale sand, strong ocean waves in background, steady coastal wind visibly blowing flag, generic southern Brazilian Atlantic coast with low green dunes. One coherent simple scene, realistic flag cloth, natural overcast daylight, crisp photojournalistic composition. No people swimming, no writing on flag, no logos, no signs, no watermark, no identifiable real beach. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS."
     ]
+  },
+  {
+    "slug": "adres-dostavki-v-brazilii",
+    "title": "Заказ в Бразилии: куда вписать квартиру и как не перепутать её с номером дома",
+    "description": "Разбираем CEP, Número, Complemento и Bairro: как собрать адрес для доставки и проверить его перед оплатой.",
+    "section": "Быт в Бразилии",
+    "slot_id": "2026-10-24-morning",
+    "blocks": [
+      {
+        "heading": "Сначала разложите адрес по полям",
+        "image": "adres-dostavki-v-brazilii-1",
+        "alt": "Посылка и ключи у входа в дом",
+        "paragraphs": [
+          "Представьте: после переезда в Бразилию вы заказываете домой обычную вещь. Товар выбран, но форма доставки останавливает: CEP, Logradouro, Número, Complemento, Bairro. Хочется вставить весь адрес в одну строку. Однако тогда номер квартиры легко оказывается на месте номера дома, а нужный корпус теряется в примечании.",
+          "Начните с полного адреса, который вам подтвердил хозяин квартиры или управляющий. Сохраните его на португальском, а затем перенесите по частям. Logradouro — улица или другой адресный объект с его типом и названием; Número — номер дома; Complemento — уточнение внутри адреса. Bairro — район, Cidade — город, UF — обозначение штата.",
+          "Например, для адреса во Флорианополисе в Cidade указывают Florianópolis, а в UF — SC, сокращение Santa Catarina. Название района не заменяет город. И название жилого комплекса само по себе не заменяет улицу: получателю и перевозчику нужны согласованные части одного адреса.",
+          "Оставляйте официальное написание улицы латиницей, вместе с Rua, Avenida или другим обозначением типа. Перевод для себя может помогать запоминанию, но в заказ лучше переносить исходное название. Если адрес прислали несколькими сообщениями, сначала соберите одну проверенную запись — иначе легко скопировать улицу из одного сообщения, а номер из другого."
+        ]
+      },
+      {
+        "heading": "Проверьте CEP, даже если сайт сам подставил улицу",
+        "image": "adres-dostavki-v-brazilii-2",
+        "alt": "Ноутбук и блокнот для проверки данных заказа",
+        "paragraphs": [
+          "CEP — бразильский почтовый индекс из восьми цифр. Он помогает направить отправление к месту назначения. В формах может отображаться дефис после первых пяти цифр; если поле принимает только цифры, введите все восемь без дефиса. Не сокращайте индекс до пяти знаков по привычке к формам другой страны.",
+          "Для проверки используйте официальный Busca CEP на сайте Correios. Он позволяет искать по адресу или индексу. В форме «Por Endereço ou CEP» прямо указано: при поиске адреса не добавлять номер дома, квартиры, участка или здания и не использовать сокращения. Это инструкция именно для поиска; в самом заказе номер дома по-прежнему необходим.",
+          "В результате сравните Logradouro/Nome, Bairro/Distrito, Localidade/UF и CEP со своим адресом. Если нашлось несколько вариантов, не берите первый только потому, что совпало название улицы. Сверьте город, штат и уточнения результата. При несовпадении спросите хозяина или управляющего, какой почтовый адрес относится к вашему дому.",
+          "Автозаполнение удобно, но после него всё равно прочитайте форму. Если вы ждёте доставку во Florianópolis, а сайт подставил другой город, не пытайтесь компенсировать это фразой в комментарии. Сначала исправьте исходные данные. Сам факт, что поле стало зелёным и кнопка оплаты активна, ещё не означает, что указан нужный вам адрес."
+        ]
+      },
+      {
+        "heading": "Номер дома отдельно, квартира и корпус — в Complemento",
+        "image": "adres-dostavki-v-brazilii-3",
+        "alt": "Вход в жилое здание с калиткой и домофоном",
+        "paragraphs": [
+          "Разберём условный пример, не реальный адрес: дом 120, корпус B, квартира 302. Если магазин предлагает отдельные поля, в Número идёт 120, а в Complemento — «Bloco B, apartamento 302». Число 302 в поле Número отправит человека искать совсем другой дом. Перестановка двух чисел выглядит мелочью только до доставки.",
+          "В бразильских адресах apartamento означает квартиру, bloco — корпус или блок, casa — дом, loja — магазин или отдельное торговое помещение. Нужное уточнение зависит от вашего жилья. Не добавляйте «Bloco B», если корпуса нет, и не заменяйте номер квартиры этажом: это разные сведения.",
+          "У поля Complemento может не быть отметки «обязательно», но это не делает квартиру необязательной для вашего адреса. Если без неё непонятно, кому предназначена посылка в многоквартирном здании, заполните поле. А если форма действительно не позволяет указать необходимую часть адреса, уточните у магазина способ оформления до оплаты.",
+          "Фраза «рядом с пекарней» может быть дополнительным ориентиром, но не заменяет номер и квартиру. Если сервис отдельно предлагает Referência или Observações, используйте это поле для короткого пояснения. Уточните у хозяина, какой вход используется для доставок: красивый главный фасад и фактический вход для получателей могут не совпадать. Это нужно проверить у конкретного дома, а не предполагать по фотографии."
+        ]
+      },
+      {
+        "heading": "Перед оплатой прочитайте адрес как человек, который вас не знает",
+        "image": "adres-dostavki-v-brazilii-4",
+        "alt": "Телефон, ключи и закрытая посылка на домашнем столе",
+        "paragraphs": [
+          "Откройте итог заказа и прочитайте адрес целиком. Есть ли имя получателя, улица, номер дома, нужное уточнение, район, город, штат и CEP? Если сервис запрашивает телефон, проверьте и его. Полезно делать это на последнем экране: сохранённый профиль, текущий заказ и адрес по умолчанию могут оказаться разными записями.",
+          "Представьте, что вы сменили временную квартиру во Флорианополисе на постоянную. Исправить название улицы недостаточно: проверьте также номер, Complemento и CEP. Удалять старый адрес нужно там, где вы больше не собираетесь им пользоваться, а для нового заказа важно явно выбрать новый. Не рассчитывайте, что изменение профиля обязательно исправит уже оформленную покупку.",
+          "Отдельно узнайте правила приёма посылок в вашем доме: есть ли portaria — пост консьержа или охраны, принимает ли он отправления и нужно ли заранее сообщать имя получателя. Наличие будки у ворот не подтверждает, что посылку примут в любое время. Это практический вопрос к управляющему; универсального обещания за все дома Бразилии здесь быть не может.",
+          "Сохраните окончательный адрес в заметке и копируйте его при следующих покупках, каждый раз сверяя поля. Правильно заполненный адрес не гарантирует срок и возможность доставки: условия продавца и перевозчика проверяются отдельно. Зато вы исключите собственную путаницу между домом и квартирой ещё до отправки. Названия полей и порядок проверки сверены с материалами Correios 24 октября 2026 года; номера в примере вымышлены."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Больше повседневных историй о жизни в Бразилии — на YouTube-канале «Гео Неважно».",
+      "url": "https://www.youtube.com/@geonevazhno",
+      "label": "Смотреть канал"
+    },
+    "sources": [
+      "https://www.correios.com.br/enviar/precisa-de-ajuda/guia-de-enderecamento/guia-de-enderecamento",
+      "https://www.correios.com.br/enviar/precisa-de-ajuda/tudo-sobre-cep",
+      "https://buscacepinter.correios.com.br/app/endereco/index.php",
+      "https://www2.correios.com.br/enderecador/encomendas/"
+    ],
+    "source_labels": [
+      "Correios: состав адреса",
+      "Correios: что такое CEP",
+      "Correios: официальный поиск адреса и CEP",
+      "Correios: поля адресной этикетки"
+    ],
+    "checked_at": "2026-10-24",
+    "editorial_score": 90,
+    "editorial_review": {
+      "title_candidates": [
+        "Заказ в Бразилии: куда вписать квартиру и как не перепутать её с номером дома",
+        "CEP, Bairro и Complemento: как заполнить адрес доставки в Бразилии",
+        "Переехали в Бразилию: что проверить в адресе перед первой доставкой"
+      ],
+      "scores": {
+        "headline": 18,
+        "utility_local_context": 23,
+        "structure": 18,
+        "clarity": 14,
+        "accuracy": 9,
+        "cta": 8
+      },
+      "corrections": [
+        "Разделены требования поисковой формы Correios и адреса в заказе: запрет номера относится только к поиску.",
+        "Пример с домом и квартирой явно обозначен как условный, реальный CEP не выдуман.",
+        "Убраны гарантии доставки и предположения о круглосуточной работе portaria.",
+        "Инструкция уточнена для форм с раздельными полями; не заявлена одинаковая структура всех магазинов."
+      ],
+      "fact_check": "Проверены четыре первичных страницы Correios. Термины и число цифр CEP подтверждены; советы по перепроверке и согласованию с хозяином — редакционные рекомендации. Тема не повторяет архив.",
+      "image_provenance": "Четыре отдельные фотореалистичные генерации image_gen, условные интерьеры без адресов и персональных данных."
+    },
+    "image_prompts": [
+      "One photorealistic editorial photograph for a Russian article about entering Brazilian delivery addresses. Landscape 16:9 at least 1600x900. A modest cardboard parcel and house keys on a bright wooden console just inside a contemporary southern Brazilian apartment entrance, leafy greenery visible through open doorway, inviting natural light, realistic textures, restrained magazine aesthetic. No shipping label, no text or logos, no real address, no people. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN.",
+      "One photorealistic editorial photograph, landscape 16:9 at least 1600x900. Close view of an open laptop seen at a side angle on a small home desk, a blank notebook and pencil beside it, plain cardboard parcel in background. The laptop display faces away from camera so no interface or readable data visible. Warm daylight through tropical greenery outside an ordinary Brazilian apartment window, believable materials, natural editorial photography. No text, logos, people, real addresses. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN.",
+      "One photorealistic editorial photograph, landscape 16:9 at least 1600x900. Close three-quarter view of a simple apartment-building entrance in southern Brazil: clean metal pedestrian gate, small intercom panel with unmarked buttons on a cream stucco wall, tropical potted plants, tiled entrance passage beyond gate. No readable apartment numbers or address, no logos, no people. Realistic modest lived-in architecture, morning light, documentary magazine style, focus on finding the right entrance for a delivery. Fictional generic building. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN.",
+      "One photorealistic editorial photograph, exact landscape 16:9 at least 1600x900. Top three-quarter view of a compact home table with a smartphone lying face down, a small plain sealed cardboard parcel, a keyring and a ceramic coffee cup, softly blurred plant and tiled Brazilian apartment interior behind. Calm sense of a completed order check. Warm natural daylight, realistic everyday objects, fine restrained photographic detail. No labels, no addresses, no text, no logos, no people. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN."
+    ]
   }
 ]
