@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-24T21:08:38.420037+00:00",
-  "items": 14,
-  "images": 57,
-  "recent_items": 14,
-  "unique_guids": 14,
+  "checked_at": "2026-10-25T12:03:01.497327+00:00",
+  "items": 15,
+  "images": 61,
+  "recent_items": 15,
+  "unique_guids": 15,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/kak-zakazat-kofe-v-brazilii/",
+      "characters": 5675,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/rozetki-v-brazilii-proverka-priborov/",
       "characters": 5660,
