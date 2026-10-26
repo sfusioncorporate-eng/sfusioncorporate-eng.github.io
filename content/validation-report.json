@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-25T21:52:56.892120+00:00",
-  "items": 16,
-  "images": 65,
-  "recent_items": 16,
-  "unique_guids": 16,
+  "checked_at": "2026-10-26T12:12:49.803793+00:00",
+  "items": 17,
+  "images": 69,
+  "recent_items": 17,
+  "unique_guids": 17,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/telefon-v-brazilii-kod-strany-ddd/",
+      "characters": 5877,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/stirka-v-brazilii-yarlyk-i-sushka/",
       "characters": 5958,

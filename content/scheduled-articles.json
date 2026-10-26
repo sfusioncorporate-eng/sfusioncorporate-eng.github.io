@@ -604,5 +604,104 @@
       "Photorealistic editorial photograph landscape 16:9 at least 1600x900. A simple white freestanding drying rack holding two light cotton shirts and a small towel spaced apart in a covered bright Brazilian apartment utility balcony, green foliage softly blurred beyond window, natural indirect daylight, no rain, no landmarks. Realistic fabric, modest tidy everyday scene. No people logos text. ONE IMAGE = ONE DESIGN NO COLLAGE NO GRID NO CONTACT SHEET NO SPLIT SCREEN.",
       "One photorealistic editorial photograph landscape 16:9 at least 1600x900. Top three quarter view of a light wooden table with two neatly folded cotton garments, a smartphone face down and an open blank notebook with pencil. Soft daylight in a modest generic Brazilian apartment laundry corner, warm cream and blue palette, fine realistic fabric textures. No text no logos no people no collage no grid no contact sheet no split screen. ONE IMAGE = ONE DESIGN."
     ]
+  },
+  {
+    "slug": "telefon-v-brazilii-kod-strany-ddd",
+    "title": "Телефон в Бразилии: куда вписать +55 и DDD, чтобы не потерять часть номера",
+    "description": "Как разложить телефон по полям анкеты и не добавить лишнюю девятку к мобильному или стационарному контакту.",
+    "section": "Быт в Бразилии",
+    "slot_id": "2026-10-26-morning",
+    "blocks": [
+      {
+        "heading": "Разделите номер на три части",
+        "paragraphs": [
+          "Представьте: вы оформляете доставку в Бразилии. Номер телефона скопирован из заметок целиком, но форма подсвечивает ошибку. Вы убираете плюс, затем пробелы, потом пару цифр — и поле наконец принимается. Только теперь непонятно, остался ли в нём ваш номер. В такой ситуации полезнее разобраться в частях записи, чем подгонять её длину наугад.",
+          "В бразильском плане нумерации есть три элемента: код страны, код зоны и номер абонента. По данным Anatel, код Бразилии — 55, код зоны состоит из двух цифр. В быту его называют DDD; на сайте или в анкете можно увидеть и выражение código de área. Это отдельная часть номера, а не первые две цифры мобильного телефона.",
+          "Например, для номера с DDD 48 условная международная запись выглядит так: +55 48 9XXXX-XXXX. Здесь +55 относится к стране, 48 — к зоне, оставшаяся последовательность — к мобильному номеру. Буквы X обозначают скрытые цифры: это схема, а не действующий контакт. К зоне 48 относится, в частности, Флорианополис — это подтверждает справка оператора Claro.",
+          "Не выбирайте DDD по месту, где вы сейчас заполняете анкету. Сначала проверьте код своего действующего номера. Если в подтверждённой записи стоит другой DDD, не заменяйте его на 48 только потому, что живёте во Флорианополисе. Форма должна содержать ваш контакт; адрес доставки и телефон — разные данные."
+        ],
+        "image": "telefon-v-brazilii-kod-strany-ddd-1",
+        "alt": "Телефон и блокнот для сохранения контактных данных"
+      },
+      {
+        "heading": "Посмотрите, какие части форма уже подставила",
+        "paragraphs": [
+          "Перед вставкой прочитайте подписи и пример внутри поля. Если есть отдельный выбор страны Brasil (+55), код страны уже задаётся этим элементом. Если рядом расположено поле DDD, две цифры зоны идут туда, а в telefone или celular остаётся номер абонента. В этом варианте повторять +55 и DDD в последнем поле не требуется.",
+          "Условный пример для той же записи: страна — Brasil (+55), DDD — 48, celular — 9XXXX-XXXX. Если же поле подписано «telefone com DDD» и отдельного DDD нет, оно просит номер вместе с кодом зоны. Тогда нужно ориентироваться на показанную маску ввода и подсказку сервиса. Интерфейсы различаются, поэтому одинаковое копирование во все поля приводит к разным результатам.",
+          "Скобки, дефис и пробелы помогают читать номер, но конкретная форма может расставлять их сама или принимать только цифры. Убирайте оформление, если этого требует поле, сохраняя саму последовательность. Не удаляйте цифры ради зелёной отметки. Если международный номер не помещается, сначала проверьте, не вынесен ли код страны в соседний список.",
+          "Если сайт принимает только бразильские номера, а у вас иностранная линия, замена кода страны на +55 не превратит её в местную. Проверьте, предусмотрен ли другой способ указать контакт, или уточните оформление у поддержки. Правильный выход — согласованный способ связи, а не случайный набор, который проходит проверку длины."
+        ],
+        "image": "telefon-v-brazilii-kod-strany-ddd-2",
+        "alt": "Ноутбук, телефон и посылка на домашнем столе"
+      },
+      {
+        "heading": "Не дописывайте девятку к любому телефону",
+        "paragraphs": [
+          "Anatel указывает девять цифр для обычной мобильной связи и восемь — для стационарного номера абонента. Мобильные номера после перехода на девятый знак имеют вид 9XXXX-XXXX. Поэтому девятка уже является частью современного мобильного номера: если он полностью указан, добавлять ещё одну в начало не нужно.",
+          "Длина считается без кода страны и без DDD. Например, запись мобильного контакта с кодом зоны содержит 11 цифр: две цифры DDD и девять цифр номера. Само по себе наличие 11 цифр не подтверждает правильность контакта — можно верно посчитать длину и всё равно перепутать две цифры. Сверять нужно и структуру, и исходную запись.",
+          "Если у магазина указан стационарный телефон с восьмизначной местной частью, не превращайте его в мобильный добавлением девятки. И наоборот: если чужой контакт выглядит старым или неполным, попросите актуальный номер. Случайное исправление может привести совсем к другому абоненту. Для своего номера сверяйтесь с подтверждёнными данными линии, а не с догадкой по фотографии вывески.",
+          "Эти схемы относятся к обычным мобильным и стационарным контактам. Короткие сервисные номера и специальные форматы не нужно насильно укладывать в тот же шаблон. Здесь также не приведена инструкция по набору звонка: правила набора зависят от направления и услуги. Формат контактной записи и последовательность для конкретного вызова — разные задачи."
+        ],
+        "image": "telefon-v-brazilii-kod-strany-ddd-3",
+        "alt": "Стационарная телефонная трубка на базе"
+      },
+      {
+        "heading": "Проверьте сохранённый контакт до следующего заказа",
+        "paragraphs": [
+          "После заполнения откройте итоговую запись. Посмотрите, не повторился ли код страны, не исчез ли DDD и не добавилась ли лишняя девятка. Автоматическое оформление может сделать неверный набор визуально аккуратным, поэтому полезно читать цифры небольшими группами и сравнивать с исходным контактом, а не оценивать только внешний вид.",
+          "Для себя сохраните одну проверенную полную запись и рядом разложение: страна, DDD, местный номер. Так проще заполнить и форму с тремя отдельными полями, и одно международное поле. Назовите заметку понятно, особенно если у вас несколько линий: например, «номер для текущих заказов». Не полагайтесь на память о том, какая SIM-карта использовалась при прошлой покупке.",
+          "Перед важной доставкой можно попросить близкого человека сделать обычный тестовый звонок на указанный номер. Это поможет заметить ошибку в записи, но не гарантирует получение всех сервисных сообщений или работу каждого сайта. Если код подтверждения не приходит, сначала ещё раз проверьте страну и номер, а затем используйте предусмотренную сервисом помощь; менять цифры наугад не стоит.",
+          "Практический порядок такой: определить свой полный номер, понять структуру полей, перенести данные и проверить результат. Сведения Anatel и оператора сверены 26 октября 2026 года. Формы в примерах условные; требования конкретного магазина могут отличаться. Зато разделение на код страны, DDD и номер помогает увидеть, какая именно часть потерялась, вместо бесконечного удаления знаков."
+        ],
+        "image": "telefon-v-brazilii-kod-strany-ddd-4",
+        "alt": "Телефон и ключи перед выходом из дома"
+      }
+    ],
+    "cta": {
+      "text": "Больше повседневных историй о жизни в Бразилии — на YouTube-канале «Гео Неважно».",
+      "url": "https://www.youtube.com/@geonevazhno",
+      "label": "Смотреть канал"
+    },
+    "checked_at": "2026-10-26",
+    "editorial_score": 90,
+    "sources": [
+      "https://www.gov.br/anatel/pt-br/regulado/numeracao/plano-de-numeracao-brasileiro",
+      "https://www.gov.br/anatel/pt-br/regulado/numeracao/codigos-nacionais/nono-digito",
+      "https://www.claro.com.br/blog/celular/ddd-48"
+    ],
+    "source_labels": [
+      "Anatel: структура телефонного номера",
+      "Anatel: девятый знак мобильного номера",
+      "Claro: города зоны DDD 48"
+    ],
+    "editorial_review": {
+      "title_candidates": [
+        "Телефон в Бразилии: куда вписать +55 и DDD, чтобы не потерять часть номера",
+        "+55, DDD и девятка: как проверить телефон в бразильской анкете",
+        "Номер телефона в Бразилии: почему форма не принимает ваш контакт"
+      ],
+      "scores": {
+        "headline": 18,
+        "utility_local_context": 23,
+        "structure": 18,
+        "clarity": 14,
+        "accuracy": 9,
+        "cta": 8
+      },
+      "corrections": [
+        "Формат хранения контакта отделён от набора звонка.",
+        "Исключена замена DDD по текущему месту проживания.",
+        "Отдельно указано, что девятка не добавляется к стационарным номерам.",
+        "Все примеры замаскированы; прохождение проверки формы не названо доказательством правильности номера."
+      ],
+      "fact_check": "Проверены первичные страницы Anatel и оператора Claro. Структура номера и DDD 48 подтверждены; инструкции по чтению форм — редакционные рекомендации для условных интерфейсов. Тема не повторяет архив.",
+      "image_provenance": "Четыре отдельные генерации image_gen, просмотренные по одной. Вымышленные домашние сцены без персональных данных, адресов и читаемых интерфейсов."
+    },
+    "image_prompts": [
+      "Photorealistic natural editorial photograph landscape 16:9 at least 1600x900. A modern smartphone lying face down beside a blank notebook and pencil on a wooden kitchen table in a modest bright southern Brazilian apartment, leafy foliage outside window, soft natural morning light, realistic materials. No people, readable text, logos, screen interface or identifiable landmarks. ONE IMAGE = ONE DESIGN. NO COLLAGE NO GRID NO CONTACT SHEET NO SPLIT SCREEN.",
+      "Photorealistic editorial photograph landscape 16:9 at least 1600x900. Close view of an open laptop seen from the rear side on a small home desk, display turned away so no screen content visible, smartphone face down beside it and a plain sealed cardboard delivery parcel in soft focus. Warm natural daylight, generic modest Brazilian home interior, no labels, addresses, readable text, logos or people. ONE IMAGE = ONE DESIGN NO COLLAGE NO GRID NO CONTACT SHEET NO SPLIT SCREEN.",
+      "One photorealistic editorial photograph landscape 16:9 at least 1600x900. A simple modern cordless home landline telephone handset resting correctly in its charging base on a cream console, small green plant beside it, soft natural daylight in a modest Brazilian apartment. Display dark, keypad softly out of focus, no readable writing, no brands, no people, no identifiable address. Realistic neutral materials. ONE IMAGE = ONE DESIGN NO COLLAGE NO GRID NO CONTACT SHEET NO SPLIT SCREEN.",
+      "One photorealistic natural editorial photograph landscape 16:9 at least 1600x900. A plain smartphone face down on a tidy wooden entryway console beside house keys, a closed small notebook and canvas tote, morning sunlight through soft green foliage, ordinary modest southern Brazilian home. Quiet everyday preparation for errands. No people, labels, readable text, logos, screens or recognizable landmarks. ONE IMAGE = ONE DESIGN NO COLLAGE NO GRID NO CONTACT SHEET NO SPLIT SCREEN."
+    ]
   }
 ]
