@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-27T21:02:07.053477+00:00",
-  "items": 20,
-  "images": 81,
-  "recent_items": 20,
-  "unique_guids": 20,
+  "checked_at": "2026-10-28T12:09:20.376495+00:00",
+  "items": 21,
+  "images": 85,
+  "recent_items": 21,
+  "unique_guids": 21,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/lixo-seletivo-em-florianopolis/",
+      "characters": 5964,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/tapioka-v-brazilii-goma-polvilho-farinha/",
       "characters": 5741,
