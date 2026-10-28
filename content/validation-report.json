@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-28T12:09:20.376495+00:00",
-  "items": 21,
-  "images": 85,
-  "recent_items": 21,
-  "unique_guids": 21,
+  "checked_at": "2026-10-28T21:05:57.240913+00:00",
+  "items": 22,
+  "images": 89,
+  "recent_items": 22,
+  "unique_guids": 22,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/tabua-de-mares-em-florianopolis/",
+      "characters": 5877,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/lixo-seletivo-em-florianopolis/",
       "characters": 5964,
