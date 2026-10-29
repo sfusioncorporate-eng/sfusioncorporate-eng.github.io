@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-28T21:05:57.240913+00:00",
-  "items": 22,
-  "images": 89,
-  "recent_items": 22,
-  "unique_guids": 22,
+  "checked_at": "2026-10-29T12:12:33.999428+00:00",
+  "items": 23,
+  "images": 93,
+  "recent_items": 23,
+  "unique_guids": 23,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/kvartira-v-brazilii-quartos-suite/",
+      "characters": 5839,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/tabua-de-mares-em-florianopolis/",
       "characters": 5877,
