@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-29T12:12:33.999428+00:00",
-  "items": 23,
-  "images": 93,
-  "recent_items": 23,
-  "unique_guids": 23,
+  "checked_at": "2026-10-29T21:09:50.941231+00:00",
+  "items": 24,
+  "images": 97,
+  "recent_items": 24,
+  "unique_guids": 24,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/acai-v-brazilii-obed-i-desert/",
+      "characters": 5818,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/kvartira-v-brazilii-quartos-suite/",
       "characters": 5839,
