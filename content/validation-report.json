@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-29T21:09:50.941231+00:00",
-  "items": 24,
-  "images": 97,
-  "recent_items": 24,
-  "unique_guids": 24,
+  "checked_at": "2026-10-30T12:02:46.868770+00:00",
+  "items": 25,
+  "images": 101,
+  "recent_items": 25,
+  "unique_guids": 25,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/avtobus-vo-florianopolise-marshrut-i-napravlenie/",
+      "characters": 5659,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/acai-v-brazilii-obed-i-desert/",
       "characters": 5818,
