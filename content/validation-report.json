@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-30T12:02:46.868770+00:00",
-  "items": 25,
-  "images": 101,
-  "recent_items": 25,
-  "unique_guids": 25,
+  "checked_at": "2026-10-30T21:09:28.025310+00:00",
+  "items": 26,
+  "images": 105,
+  "recent_items": 26,
+  "unique_guids": 26,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/moloko-v-brazilii-uht-i-holodilnik/",
+      "characters": 5815,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/avtobus-vo-florianopolise-marshrut-i-napravlenie/",
       "characters": 5659,
