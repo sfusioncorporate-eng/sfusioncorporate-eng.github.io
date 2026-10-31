@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-30T21:09:28.025310+00:00",
-  "items": 26,
-  "images": 105,
-  "recent_items": 26,
-  "unique_guids": 26,
+  "checked_at": "2026-10-31T12:03:48.818101+00:00",
+  "items": 27,
+  "images": 109,
+  "recent_items": 27,
+  "unique_guids": 27,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/gamba-v-brazilii-opossum-vo-dvore/",
+      "characters": 5723,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/moloko-v-brazilii-uht-i-holodilnik/",
       "characters": 5815,
