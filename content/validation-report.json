@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-10-31T21:09:23.364611+00:00",
-  "items": 28,
-  "images": 113,
-  "recent_items": 28,
-  "unique_guids": 28,
+  "checked_at": "2026-11-01T12:09:27.321812+00:00",
+  "items": 29,
+  "images": 117,
+  "recent_items": 29,
+  "unique_guids": 29,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/postel-v-brazilii-casal-queen-razmery/",
+      "characters": 5545,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/sok-v-brazilii-suco-nectar-refresco/",
       "characters": 5661,
