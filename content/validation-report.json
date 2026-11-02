@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-01T12:09:27.321812+00:00",
-  "items": 29,
-  "images": 117,
-  "recent_items": 29,
-  "unique_guids": 29,
+  "checked_at": "2026-11-02T21:01:08.664938+00:00",
+  "items": 30,
+  "images": 121,
+  "recent_items": 30,
+  "unique_guids": 30,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/lagoinha-do-leste-tropa-i-obratnyi-put/",
+      "characters": 5624,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/postel-v-brazilii-casal-queen-razmery/",
       "characters": 5545,
