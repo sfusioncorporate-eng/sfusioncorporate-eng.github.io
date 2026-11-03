@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-02T21:01:08.664938+00:00",
-  "items": 30,
-  "images": 121,
-  "recent_items": 30,
-  "unique_guids": 30,
+  "checked_at": "2026-11-03T12:10:12.119133+00:00",
+  "items": 31,
+  "images": 125,
+  "recent_items": 31,
+  "unique_guids": 31,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/posylka-correios-v-brazilii-status-i-vydacha/",
+      "characters": 5834,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/lagoinha-do-leste-tropa-i-obratnyi-put/",
       "characters": 5624,
