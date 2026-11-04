@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-04T12:00:18.725568+00:00",
-  "items": 33,
-  "images": 133,
-  "recent_items": 32,
-  "unique_guids": 33,
+  "checked_at": "2026-11-04T21:03:33.618871+00:00",
+  "items": 34,
+  "images": 137,
+  "recent_items": 33,
+  "unique_guids": 34,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/florianopolis-ostrov-kontinent-sao-jose-adres/",
+      "characters": 5647,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/fasol-v-brazilii-carioca-preto-fradinho/",
       "characters": 5632,

@@ -70,9 +70,10 @@ def build():
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/style.css">
 <meta property="og:type" content="article"><meta property="og:title" content="{esc(a['title'])}"><meta property="og:description" content="{esc(a['description'])}"><meta property="og:url" content="{url}"><meta property="og:image" content="{cover}">
 <meta property="article:published_time" content="{dt.isoformat()}"></head><body>'''
+        endnote = '' if a.get('youtube_only_cta') else f'''<div class="endnote"><span class="eyebrow">Продолжаем знакомство</span><h2>Жизнь у океана — в деталях.</h2><p>Больше наблюдений и историй — в нашем канале.</p><a class="button" href="{DZEN}">Читать в Дзене ↗</a></div>'''
         page = head + header + f'''<main id="main"><div class="article-top"><a class="back" href="/">← Все статьи</a><div class="eyebrow">{esc(a['section'])} · Жизнь в Бразилии</div><h1>{esc(a['title'])}</h1><p class="deck">{esc(a['description'])}</p><div class="meta"><span>Гео Неважно</span><time datetime="{dt.isoformat()}">{human_date}</time><span>{read_minutes} мин. чтения</span></div></div>
 <article class="prose" aria-label="Текст статьи">{body}</article>
-<div class="endnote"><span class="eyebrow">Продолжаем знакомство</span><h2>Жизнь у океана — в деталях.</h2><p>Больше наблюдений и историй — в нашем канале.</p><a class="button" href="{DZEN}">Читать в Дзене ↗</a></div></main>''' + footer
+{endnote}</main>''' + footer
         path = ROOT/'articles'/slug/'index.html'
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(page)
