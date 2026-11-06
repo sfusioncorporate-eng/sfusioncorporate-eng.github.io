@@ -2668,5 +2668,111 @@
         "prompt": "Edit this single photograph. Keep the cup, yerba mate, pitcher, ice, garden, lighting and composition unchanged. Correct ONLY the metal drinking straw in the left cup: the entire visible shaft above the liquid and above the cup rim must be smooth closed stainless steel with no holes, slots, perforations or filter grille. A filter belongs only at the fully submerged hidden lower end inside the cup and must not be visible above the liquid. Keep one natural mouthpiece opening at the top. No extra straw. Preserve photorealism and 16:9 aspect ratio. No text, logos, collage or watermark."
       }
     ]
+  },
+  {
+    "slug": "braziliya-chasovye-poyasa-reis-vstrecha",
+    "title": "Часовые пояса Бразилии: как не перепутать время рейса и онлайн-встречи",
+    "description": "Когда ориентироваться на часы Бразилиа, как читать время в авиабилете и почему календарь может показывать участникам одной встречи разные часы.",
+    "section": "Путешествия и быт",
+    "slot_id": "2026-11-06-morning",
+    "youtube_only_cta": true,
+    "blocks": [
+      {
+        "heading": "Бразилиа — один ориентир, а не вся страна",
+        "image": "braziliya-chasovye-poyasa-reis-vstrecha-1",
+        "alt": "Чемодан, дорожная куртка и наручные часы на деревянной скамье",
+        "paragraphs": [
+          "Представьте: вы собираетесь из Флорианополиса в другой город Бразилии, а между делом договариваетесь об онлайн-встрече на три часа дня. В билете стоит одно время, в сообщении — другое, телефон уверенно показывает третью цифру. Прежде чем что-то исправлять, нужно понять, к какому месту относится каждый час.",
+          "В Бразилии четыре часовых пояса: UTC−2, UTC−3, UTC−4 и UTC−5. Поэтому фраза «по бразильскому времени» оставляет важный вопрос без ответа. На практике полезнее назвать город или прямо указать horário de Brasília — время Бразилиа. Ни расстояние между городами, ни одинаковый язык сами по себе не говорят, совпадают ли там часы.",
+          "По данным, проверенным 6 ноября 2026 года, Флорианополис и Сан-Паулу живут по времени Бразилиа, UTC−3. В Манаусе UTC−4, в Риу-Бранку UTC−5. Например, когда в Бразилиа и Флорианополисе полдень, в Манаусе 11:00, а в Риу-Бранку 10:00. Это пример для конкретных городов: переносить пояс Манауса на весь штат Амазонас нельзя.",
+          "Для записи в ежедневнике достаточно пары «город + дата». А если речь о событии, участники которого находятся в разных местах, добавьте исходный часовой пояс. Так не придётся потом восстанавливать, чьи именно три часа дня имелись в виду."
+        ]
+      },
+      {
+        "heading": "В авиабилете у каждого аэропорта своё время",
+        "image": "braziliya-chasovye-poyasa-reis-vstrecha-2",
+        "alt": "Пустые кресла и небольшой чемодан у окна условного аэропорта",
+        "paragraphs": [
+          "С авиабилетом действует другой порядок: время уже привязано к месту. ANAC советует следовать местному времени, указанному в билете, без самостоятельной поправки на часовой пояс. Ассоциация авиакомпаний ABEAR объясняет это на маршруте Сан-Паулу — Манаус: вылет указан по часам Сан-Паулу, прилёт — по часам Манауса. На обратном пути логика та же.",
+          "Поэтому не нужно прибавлять или вычитать час из времени прилёта только потому, что вы помните разницу между городами. Поправка второй раз исказит запись. А простая разность между цифрами вылета и прилёта может не совпасть с длительностью перелёта: у двух аэропортов разные часы. Продолжительность смотрите в деталях маршрута.",
+          "Отдельно проверьте календарную дату у каждого участка, особенно если путешествие захватывает полночь. Время 00:30 без даты легко принять за конец нужного вечера, хотя это уже начало следующих суток. При пересадке сверяйте оба участка, а не только первое отправление.",
+          "И ещё одна важная пара: horário de embarque — время посадки в самолёт, horário do voo — время рейса. ANAC подчёркивает, что посадка начинается раньше вылета. Ориентируйтесь на посадочный талон и актуальное табло: время рейса и выход могут измениться. Разобраться с поясом недостаточно, если прийти к выходу только к вылету."
+        ]
+      },
+      {
+        "heading": "Встречу назначайте с датой и часовым поясом",
+        "image": "braziliya-chasovye-poyasa-reis-vstrecha-3",
+        "alt": "Ноутбук, наушники и открытый блокнот на столе домашнего кабинета",
+        "paragraphs": [
+          "В переписке полезно сделать то, что билет уже сделал за вас: явно назвать исходную систему отсчёта. Например: «6 ноября, 15:00 по времени Бразилиа». Для участника в Риу-Бранку это 13:00 того же дня при указанных выше поясах. Здесь разные цифры обозначают один момент, а не две отдельные встречи.",
+          "Если создаёте приглашение в Google Календаре, задайте часовой пояс самого события. Справка сервиса объясняет: приглашённый видит встречу в своём поясе, даже когда пояс организатора другой. Поэтому у одного участника в календаре может быть 15:00, у другого 13:00 — и оба придут вовремя.",
+          "Перед ручным пересчётом откройте детали события. Если календарь уже перевёл время для вашего местоположения, ещё одна поправка сдвинет встречу. Сначала выясните, что перед вами: исходное время из сообщения или уже местное отображение в приложении. Особенно полезно сделать это после поездки, когда привычная сетка календаря выглядит иначе.",
+          "Для важной встречи можно подтвердить обе записи одним сообщением: «15:00 Бразилиа, у меня в Риу-Бранку 13:00». Это короткая проверка общего понимания. При переносе на другую дату обновляйте само приглашение, чтобы в переписке не остались конкурирующие версии времени."
+        ]
+      },
+      {
+        "heading": "После дороги проверьте телефон и будильник",
+        "image": "braziliya-chasovye-poyasa-reis-vstrecha-4",
+        "alt": "Телефон экраном вниз на зарядке рядом со стаканом воды и лампой",
+        "paragraphs": [
+          "После переезда в другой пояс проверьте в настройках телефона дату, время и выбранный пояс. Затем сравните часы с независимым источником. Не стоит считать одну только включённую автоматическую настройку доказательством, что всё уже совпало. Названия пунктов меню зависят от устройства, поэтому важнее результат: какой город или пояс выбран и какое местное время получается.",
+          "Для сверки есть сервис Hora Legal Brasileira Национальной обсерватории. На государственной странице услуги указана полезная деталь: телефонное сообщение ориентируется на пояс Бразилиа, а веб-страница содержит время для каждого бразильского пояса. При проверке часов в Манаусе или Риу-Бранку выбирайте соответствующий пояс, а не первую знакомую надпись.",
+          "После сверки заново посмотрите на ближайший будильник и запись о вылете: на какую местную дату и час вы рассчитываете? Для будущей поездки проверяйте данные на её дату. Старую памятку о летнем времени нельзя автоматически применять к любому году, а календарное приглашение полезно перепроверить ближе к событию.",
+          "Рабочая последовательность простая: сначала город и дата, затем пояс, затем время события. В билете читайте местные часы каждого аэропорта; во встрече указывайте исходный пояс; на телефоне проверяйте фактическое отображение. Так один и тот же час не будет пересчитан дважды."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Больше историй о жизни в Бразилии — на YouTube-канале «Гео Неважно».",
+      "url": "https://www.youtube.com/@geonevazhno",
+      "label": "Перейти на канал"
+    },
+    "sources": [
+      "https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/tempo-e-frequencia/brasil",
+      "https://www2.camara.leg.br/legin/fed/lei/2013/lei-12876-30-outubro-2013-777336-publicacaooriginal-141612-pl.html",
+      "https://infograficos.anac.gov.br/consumidorgov/",
+      "https://www.abear.com.br/passageiros/regras-para-voar/horarios-e-antecedencia/",
+      "https://support.google.com/calendar/answer/37064?hl=pt-BR",
+      "https://www.gov.br/pt-br/servicos/hora-falada-on"
+    ],
+    "source_labels": [
+      "Часовые пояса: Observatório Nacional",
+      "Границы поясов: закон № 12.876",
+      "Время посадки и местное время: ANAC",
+      "Вылет и прилёт: ABEAR",
+      "Часовые пояса событий: справка Google Календаря",
+      "Сервис Hora Legal Brasileira"
+    ],
+    "checked_at": "2026-11-06",
+    "editorial_score": 90,
+    "image_prompts": [
+      "Use case: photorealistic-natural. ONE IMAGE = ONE DESIGN. Single continuous 16:9 landscape editorial travel still-life in an anonymous Brazilian home: a compact carry-on suitcase lying closed beside a wooden bench, an ordinary wristwatch resting face down on top of it, a plain luggage tag with its blank back visible and a folded travel jacket. Warm natural morning side light, realistic fabric and metal textures. Concept of checking local time for domestic travel, no maps, no clock diagram, no readable numbers, no tickets, no passports, no people, no logos, no text, no collage, no grid, no watermark.",
+      "Use case: photorealistic-natural. ONE IMAGE = ONE DESIGN. Single continuous 16:9 landscape editorial photograph of a quiet generic domestic airport waiting area in Brazil: two empty connected terminal seats, a small upright cabin suitcase beside them, large glass window with a softly out-of-focus passenger aircraft outside. Bright natural daylight, realistic airport materials, no visible airline markings, no signs, no departure boards, no readable ticket or clock numbers, no people, no logos, no collage, no grid, no watermark. Anonymous fictional airport, not a named terminal.",
+      "Use case: photorealistic-natural. ONE IMAGE = ONE DESIGN. Single continuous 16:9 landscape editorial photograph of a small home office in an anonymous fictional Brazilian apartment: open laptop viewed from behind so no screen is visible, over-ear headphones resting beside it, a plain notebook open to blank pages and a ceramic mug. Empty chair, warm daylight and green plants outside a window. Concept of preparing an online meeting across time zones, realistic proportions, no people, no interface, no diagrams, no maps, no readable text, no numbers, no logos, no collage, no grid, no watermark.",
+      "Use case: photorealistic-natural. ONE IMAGE = ONE DESIGN. Single continuous 16:9 landscape editorial close photograph of a smartphone lying face down on a simple wooden bedside table, connected to a charging cable, beside a glass of water and a small warm bedside lamp. A closed travel backpack is softly out of focus in the background. Anonymous fictional Brazilian guest room, quiet early morning light. Concept of checking phone settings after travel, no visible screen, no alarm clock, no readable text or numbers, no people, no brands, no logos, no collage, no grid, no watermark."
+    ],
+    "editorial_review": {
+      "title_candidates": [
+        "Часовые пояса Бразилии: как не перепутать время рейса и онлайн-встречи",
+        "Время в Бразилии: почему часы Бразилиа не подходят для всей страны",
+        "Авиабилет в Бразилии: почему часы вылета и прилёта нельзя просто вычесть"
+      ],
+      "scores": {
+        "headline": 19,
+        "utility_local_context": 23,
+        "structure": 18,
+        "clarity": 13,
+        "accuracy": 9,
+        "cta": 8
+      },
+      "corrections": [
+        "Убрано обобщение пояса Манауса на весь Амазонас: граница внутри штата проверена по закону.",
+        "К примерам добавлена дата проверки; не заявлено непроверенное решение о летнем времени 2026/27.",
+        "Разделены время посадки и вылета, исходное время приглашения и уже пересчитанное календарём.",
+        "Примеры встреч обозначены как условные; не придуманы рейс, расписание или личный опыт."
+      ],
+      "fact_check": "Четыре пояса и городские примеры сверены с Observatório Nacional и законом 12.876; местное время билета и посадка — с ANAC и ABEAR; отображение приглашений — с официальной справкой Google; особенности телефонного и веб-сервиса времени — с gov.br. Арифметика примеров проверена отдельно.",
+      "image_provenance": "Четыре отдельные генерации builtin image_gen, каждая просмотрена отдельно. Анонимные условные бытовые и аэропортовая сцены, без утверждения о реальном терминале, адресе или личном опыте автора."
+    }
   }
 ]
