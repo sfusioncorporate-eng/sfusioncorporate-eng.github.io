@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-07T12:00:38.729960+00:00",
-  "items": 39,
-  "images": 157,
-  "recent_items": 38,
-  "unique_guids": 39,
+  "checked_at": "2026-11-09T21:07:31.760954+00:00",
+  "items": 40,
+  "images": 161,
+  "recent_items": 39,
+  "unique_guids": 40,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/sakhar-v-brazilii-refinado-cristal-demerara-mascavo/",
+      "characters": 5660,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/obuv-v-brazilii-razmer-br-eu-dlina-stopy/",
       "characters": 5417,
