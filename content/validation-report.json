@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-10T12:09:10.253066+00:00",
-  "items": 41,
-  "images": 165,
-  "recent_items": 40,
-  "unique_guids": 41,
+  "checked_at": "2026-11-10T21:01:37.616066+00:00",
+  "items": 42,
+  "images": 169,
+  "recent_items": 41,
+  "unique_guids": 42,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/gazovaya-plita-braziliya-glp-gn-encanado/",
+      "characters": 5616,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/parkovka-v-brazilii-vaga-presa-rotativa/",
       "characters": 5824,
