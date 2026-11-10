@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-09T21:07:31.760954+00:00",
-  "items": 40,
-  "images": 161,
-  "recent_items": 39,
-  "unique_guids": 40,
+  "checked_at": "2026-11-10T12:09:10.253066+00:00",
+  "items": 41,
+  "images": 165,
+  "recent_items": 40,
+  "unique_guids": 41,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/parkovka-v-brazilii-vaga-presa-rotativa/",
+      "characters": 5824,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/sakhar-v-brazilii-refinado-cristal-demerara-mascavo/",
       "characters": 5660,
