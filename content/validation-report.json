@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-10T21:01:37.616066+00:00",
-  "items": 42,
-  "images": 169,
-  "recent_items": 41,
-  "unique_guids": 42,
+  "checked_at": "2026-11-11T12:08:05.476344+00:00",
+  "items": 43,
+  "images": 173,
+  "recent_items": 42,
+  "unique_guids": 43,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/muka-v-brazilii-com-fermento-drozhzhi-razryhlitel/",
+      "characters": 5651,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/gazovaya-plita-braziliya-glp-gn-encanado/",
       "characters": 5616,
