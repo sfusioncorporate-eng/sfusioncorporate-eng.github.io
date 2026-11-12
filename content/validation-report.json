@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-11T21:08:40.285833+00:00",
-  "items": 44,
-  "images": 177,
-  "recent_items": 43,
-  "unique_guids": 44,
+  "checked_at": "2026-11-12T12:08:19.480676+00:00",
+  "items": 45,
+  "images": 181,
+  "recent_items": 35,
+  "unique_guids": 45,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/polet-vo-florianopolis-vybor-aeroporta/",
+      "characters": 5304,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/ris-v-brazilii-branco-integral-parboilizado/",
       "characters": 5224,
