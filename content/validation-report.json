@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-12T12:08:19.480676+00:00",
-  "items": 45,
-  "images": 181,
-  "recent_items": 35,
-  "unique_guids": 45,
+  "checked_at": "2026-11-12T21:00:03.788539+00:00",
+  "items": 46,
+  "images": 185,
+  "recent_items": 36,
+  "unique_guids": 46,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/mebel-v-brazilii-dostavka-i-sborka/",
+      "characters": 5550,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/polet-vo-florianopolis-vybor-aeroporta/",
       "characters": 5304,
