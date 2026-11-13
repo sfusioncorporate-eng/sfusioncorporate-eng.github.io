@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-13T12:05:21.064658+00:00",
-  "items": 47,
-  "images": 189,
-  "recent_items": 37,
-  "unique_guids": 47,
+  "checked_at": "2026-11-13T21:00:17.881163+00:00",
+  "items": 48,
+  "images": 193,
+  "recent_items": 38,
+  "unique_guids": 48,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/chernaya-pyatnitsa-v-brazilii-proverka-skidki/",
+      "characters": 5350,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/noyabrskie-prazdniki-v-brazilii-2026/",
       "characters": 5414,
