@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-14T12:03:58.455286+00:00",
-  "items": 49,
-  "images": 197,
-  "recent_items": 39,
-  "unique_guids": 49,
+  "checked_at": "2026-11-14T21:01:36.198821+00:00",
+  "items": 50,
+  "images": 201,
+  "recent_items": 40,
+  "unique_guids": 50,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/flagi-na-plyazhah-florianopolisa/",
+      "characters": 4875,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/biblioteka-v-san-paulu-villa-lobos/",
       "characters": 5591,
