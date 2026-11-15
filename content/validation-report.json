@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-14T21:01:36.198821+00:00",
-  "items": 50,
-  "images": 201,
-  "recent_items": 40,
-  "unique_guids": 50,
+  "checked_at": "2026-11-15T12:04:02.375608+00:00",
+  "items": 51,
+  "images": 205,
+  "recent_items": 41,
+  "unique_guids": 51,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/araukariya-na-yuge-brazilii/",
+      "characters": 5291,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/flagi-na-plyazhah-florianopolisa/",
       "characters": 4875,
