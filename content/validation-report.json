@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-16T21:09:51.611505+00:00",
-  "items": 52,
-  "images": 209,
-  "recent_items": 42,
-  "unique_guids": 52,
+  "checked_at": "2026-11-17T12:04:18.097061+00:00",
+  "items": 53,
+  "images": 213,
+  "recent_items": 43,
+  "unique_guids": 53,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/marakuya-v-brazilii-dlya-soka-i-lozhki/",
+      "characters": 4858,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/nochnoy-avtobus-v-brazilii/",
       "characters": 5593,
