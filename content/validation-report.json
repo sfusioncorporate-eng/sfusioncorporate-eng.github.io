@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-17T12:04:18.097061+00:00",
-  "items": 53,
-  "images": 213,
-  "recent_items": 43,
-  "unique_guids": 53,
+  "checked_at": "2026-11-17T21:03:19.609955+00:00",
+  "items": 54,
+  "images": 217,
+  "recent_items": 44,
+  "unique_guids": 54,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/aviabilet-v-brazilii-chemodan-i-ryukzak/",
+      "characters": 5183,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/marakuya-v-brazilii-dlya-soka-i-lozhki/",
       "characters": 4858,
