@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-18T12:04:10.834540+00:00",
-  "items": 55,
-  "images": 221,
-  "recent_items": 45,
-  "unique_guids": 55,
+  "checked_at": "2026-11-18T21:10:13.293412+00:00",
+  "items": 56,
+  "images": 225,
+  "recent_items": 46,
+  "unique_guids": 56,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/slivki-v-brazilii-dlya-sousa-i-vzbivaniya/",
+      "characters": 5255,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/mangry-florianopolisa-korni-nad-ilom/",
       "characters": 5399,
