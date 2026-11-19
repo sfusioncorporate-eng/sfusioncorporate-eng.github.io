@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-18T21:10:13.293412+00:00",
-  "items": 56,
-  "images": 225,
-  "recent_items": 46,
-  "unique_guids": 56,
+  "checked_at": "2026-11-19T12:10:11.555720+00:00",
+  "items": 57,
+  "images": 229,
+  "recent_items": 47,
+  "unique_guids": 57,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/holodilnik-v-brazilii-obem-razmery-energiya/",
+      "characters": 5327,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/slivki-v-brazilii-dlya-sousa-i-vzbivaniya/",
       "characters": 5255,
