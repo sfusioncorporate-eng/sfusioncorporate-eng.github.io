@@ -4821,5 +4821,103 @@
       "fact_check": "19.11.2026: прочитаны официальная карточка Consul, руководство Electrolux и актуальное разъяснение Inmetro о маркировке 2026 года и переходном периоде. Правила маркировки дополнительно проверены поиском по официальному Inmetro. Цены, наличие и конкретные условия доставки не заявлены; тариф электроэнергии не подставлялся.",
       "image_provenance": "Четыре отдельные генерации встроенным image_gen, каждая просмотрена отдельно. Общие бытовые сцены без подмены фотографий конкретных моделей; энергетические этикетки не имитировались. Отдельные JPEG преобразованы из PNG с сохранением пропорций."
     }
+  },
+  {
+    "slug": "kino-v-brazilii-yazyk-i-format-seansa",
+    "title": "Кино в Бразилии: как выбрать сеанс с нужным языком и форматом",
+    "description": "Дубляж, субтитры, трёхмерный показ и средства доступности — разные настройки. Что проверить в расписании до оплаты билета, чтобы получить ожидаемый просмотр.",
+    "section": "Досуг и язык",
+    "slot_id": "2026-11-19-evening",
+    "youtube_only_cta": true,
+    "blocks": [
+      {
+        "heading": "Проверяйте язык именно у выбранного времени",
+        "image": "kino-v-brazilii-yazyk-i-format-seansa-1",
+        "alt": "Выбор киносеанса на телефоне в обобщённом фойе кинотеатра",
+        "paragraphs": [
+          "Представьте: в Бразилии вышел фильм, который вы давно хотели посмотреть. Афиша знакомая, время удобное, места есть. Но после начала показа выясняется, что вместо голосов актёров звучит дубляж, а вы рассчитывали на оригинальную дорожку. Чтобы не решать языковую задачу уже в кресле, полезно проверить не только название фильма, но и карточку конкретного сеанса.",
+          "В расписании dublado означает «дублированный», а legendado — «с субтитрами». У зарубежного фильма в бразильском прокате дубляж обычно предполагает португальскую речь. Но отметка о субтитрах сама по себе не сообщает, что исходный язык — английский: фильм может быть французским, корейским или любым другим. Если язык принципиален, уточните отдельно звуковую дорожку и язык текста на экране.",
+          "Местный пример даёт UCI: в ответах на вопросы сеть объясняет обозначение Dub рядом с названием иностранного фильма как дубляж. Это подсказка для чтения её расписания, а не универсальное правило оформления всех сайтов. В другом интерфейсе слово может быть написано целиком. Ищите языковую характеристику у выбранного времени, а не делайте вывод по одному постеру или общей странице картины."
+        ]
+      },
+      {
+        "heading": "Отделяйте язык от технологии зала",
+        "image": "kino-v-brazilii-yazyk-i-format-seansa-2",
+        "alt": "Очки для трёхмерного показа на кресле в пустом кинозале",
+        "paragraphs": [
+          "Обычный и трёхмерный показ описывают способ просмотра изображения, а не перевод. Удобнее проверять их отдельным вопросом: хотите ли вы обычную картинку или эффект глубины с предусмотренными для такого сеанса очками? Ни одна из этих характеристик не заменяет отметку о дубляже или субтитрах.",
+          "Есть и названия специальных залов. Например, Cinemark объясняет, что в залах XD показывают фильмы и в обычном, и в трёхмерном формате. Поэтому само название зала не позволяет заключить, что выбранный фильм будет объёмным. Так же оно не обещает оригинальную звуковую дорожку. В карточке должны сойтись две независимые вещи: нужный вам вариант перевода и нужный формат показа.",
+          "Если идёте компанией, договоритесь об этом до выбора мест. Один человек может искать оригинальные голоса актёров, другой — понятную без чтения речь, третий — обычный показ без дополнительных эффектов. Проверить все предпочтения заранее проще, чем обнаружить разницу после покупки нескольких билетов. Более эффектное название зала не означает автоматически более подходящий сеанс для каждого."
+        ]
+      },
+      {
+        "heading": "Уточняйте, как предоставляются средства доступности",
+        "image": "kino-v-brazilii-yazyk-i-format-seansa-3",
+        "alt": "Телефон и наушники, подготовленные дома перед походом в кино",
+        "paragraphs": [
+          "Отдельная отметка о доступности тоже требует пояснения. Бразильское агентство кино ANCINE различает обычные субтитры, описательные субтитры с информацией о звуках и аудиодескрипцию — дополнительное словесное описание изображения. Это разные средства, а не несколько названий перевода диалогов.",
+          "В актуальном разъяснении ANCINE зрителю предлагают заранее узнать у кинотеатра способ предоставления нужного средства: общий показ для всего зала, отдельное устройство или приложение на личном телефоне. Следовательно, значок доступности не стоит понимать как обещание, что весь текст обязательно будет виден на большом экране. Нужно проверить, что именно доступно для выбранного фильма и версии.",
+          "Если используется приложение, ANCINE рекомендует до прихода найти фильм в его каталоге, установить нужную программу и загрузить соответствующий ресурс. Версия должна совпадать с сеансом — дублированная или с субтитрами. Для аудиодескрипции понадобятся наушники; телефон стоит зарядить. Эти действия относятся к согласованному способу доступного просмотра, а не к обычному использованию телефона во время фильма."
+        ]
+      },
+      {
+        "heading": "Перед оплатой соберите все параметры в одну строку",
+        "image": "kino-v-brazilii-yazyk-i-format-seansa-4",
+        "alt": "Посетители входят в обобщённый кинозал в торговом центре",
+        "paragraphs": [
+          "Последняя проверка проста: город, кинотеатр, дата, время, язык, формат и места. Например, Cinemark в инструкции по поиску расписания предлагает сначала выбрать город и конкретный кинотеатр. Это полезный порядок: знакомое название сети ещё не говорит, что вы смотрите сеансы удобного вам комплекса.",
+          "Сформулируйте выбор своими словами: «этот кинотеатр, в субботу вечером, оригинальная дорожка с понятными мне субтитрами, обычный показ». Затем сопоставьте его с итоговым экраном заказа. Если интерфейс оставляет вопрос о языке, уточните его до оплаты через официальный канал кинотеатра. Отсутствие понятной отметки лучше считать поводом для проверки, а не подтверждением желаемого варианта.",
+          "Для похода с друзьями сохраните не только постер, но и точные параметры купленного сеанса. Так меньше шансов, что кто-то выберет соседнее время, другой комплекс или иной вариант перевода. Перед выходом посмотрите актуальную информацию о своём показе. Не нужно запоминать постоянное расписание: оно привязано к фильму, площадке и дате.",
+          "Удачный поход в кино в Бразилии начинается с совпадения ожиданий и конкретного сеанса. Сначала проверьте, что будете слышать и читать, затем — как будет показано изображение. Если нужны средства доступности, выясните способ их получения отдельно. После этого можно спокойно выбирать удобные места и планировать вечер."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Больше наблюдений и историй о жизни в Бразилии — на YouTube-канале «Гео Неважно».",
+      "url": "https://www.youtube.com/@geonevazhno",
+      "label": "Перейти на канал"
+    },
+    "sources": [
+      "https://www.ucicinemas.com.br/FaleConosco",
+      "https://sac.cinemark.com.br/hc/pt-br/articles/360020127211-O-que-s%C3%A3o-salas-XD",
+      "https://www.gov.br/ancine/pt-br/acesso-a-informacao/perguntas-frequentes1/acessibilidade",
+      "https://sac.cinemark.com.br/hc/pt-br/articles/360020126351-Onde-consultar-a-programa%C3%A7%C3%A3o"
+    ],
+    "source_labels": [
+      "UCI: обозначения дубляжа и субтитров",
+      "Cinemark: варианты показа в залах XD",
+      "ANCINE: средства доступности и подготовка зрителя",
+      "Cinemark: выбор города и кинотеатра в расписании"
+    ],
+    "checked_at": "2026-11-19",
+    "editorial_score": 90,
+    "image_prompts": [
+      "Use case photorealistic-natural. Exactly ONE full-frame editorial photograph horizontal 16:9, about choosing a movie session in Brazil. Over-the-shoulder view of an adult in a generic modern cinema lobby holding a smartphone with a deliberately blurred unreadable schedule interface, no recognizable movie posters, no readable text, no personal data or QR code. Warm lobby lighting, dark cinema entrance softly blurred, natural fingers, no face required. No specific real cinema claimed, no brand logos. One coherent continuous photograph about 1672x941. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case photorealistic-natural. Exactly ONE full-frame horizontal 16:9 editorial cinema photograph. A pair of ordinary black passive 3D glasses resting on the armrest of a dark red cinema seat, empty rows of seats receding toward a blank softly glowing cinema screen in background. Screen displays no film and no text. Realistic generic auditorium, subtle aisle lights, convincing low-light photography, no people, no branding, no identifiable real theater. One coherent scene about 1672x941. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case photorealistic-natural. Exactly one full-frame 16:9 editorial photograph about preparing for accessible cinema. A smartphone with screen turned off, ordinary wired headphones and a small blank notebook on a simple home table in Brazil, a hand gently arranging headphones, natural anatomy. Soft daylight, restrained practical lifestyle styling, no readable app interface, no text, no QR codes, no branding, no implication of a specific certified assistive device. One continuous still life about 1672x941. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS.",
+      "Use case photorealistic-natural. Exactly ONE full-frame editorial photograph landscape 16:9. Generic modern cinema entrance corridor in a Brazilian shopping center, two visitors seen from behind approaching an open auditorium door, empty poster lightboxes glowing softly with abstract colors but no readable text or recognizable artwork. Warm evening indoor light, realistic architectural continuity, relaxed everyday atmosphere, no brands, no signs with fake lettering, no specific real theater claimed. One coherent wide scene about 1672x941. ONE IMAGE = ONE DESIGN. NO COLLAGE. NO GRID. NO CONTACT SHEET. NO SPLIT SCREEN. NO MULTIPLE DESIGNS ON ONE CANVAS."
+    ],
+    "editorial_review": {
+      "title_candidates": [
+        "Кино в Бразилии: как выбрать сеанс с нужным языком и форматом",
+        "Поход в кино в Бразилии: что проверить в расписании до покупки билета",
+        "Киносеанс в Бразилии: как разобраться с дубляжом, субтитрами и форматом"
+      ],
+      "scores": {
+        "headline": 19,
+        "utility_local_context": 23,
+        "structure": 18,
+        "clarity": 13,
+        "accuracy": 9,
+        "cta": 8
+      },
+      "corrections": [
+        "Убрано отождествление сеанса с субтитрами и английского языка; отдельно проверяются исходная речь и язык текста.",
+        "Название зала XD отделено от трёхмерного формата и языка по разъяснению Cinemark.",
+        "Значок доступности не выдан за обязательные субтитры на общем экране: способ получения уточняется у кинотеатра по ANCINE."
+      ],
+      "fact_check": "19.11.2026: прочитаны официальные FAQ UCI и Cinemark, разъяснение ANCINE, обновлённое 24.06.2026. Правила подготовки ресурсов доступности сверены по разделу для зрителей. Конкретные фильмы в текущем прокате, цены, часы и наличие мест не заявлены; статья не обещает русские субтитры.",
+      "image_provenance": "Четыре отдельные генерации встроенным image_gen, каждая просмотрена отдельно. Обобщённые кинозалы и бытовые сцены без подмены конкретных кинотеатров, реальных афиш и интерфейсов; отдельные JPEG из PNG с сохранением пропорций."
+    }
   }
 ]
