@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-20T12:03:04.663398+00:00",
-  "items": 59,
-  "images": 237,
-  "recent_items": 48,
-  "unique_guids": 59,
+  "checked_at": "2026-11-20T21:06:44.259049+00:00",
+  "items": 60,
+  "images": 241,
+  "recent_items": 49,
+  "unique_guids": 60,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/guava-v-brazilii-vybor-i-hranenie/",
+      "characters": 5499,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/chibis-na-gazone-v-brazilii/",
       "characters": 5148,
