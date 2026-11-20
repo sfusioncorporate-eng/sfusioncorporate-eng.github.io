@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-19T21:10:25.091877+00:00",
-  "items": 58,
-  "images": 233,
-  "recent_items": 47,
-  "unique_guids": 58,
+  "checked_at": "2026-11-20T12:03:04.663398+00:00",
+  "items": 59,
+  "images": 237,
+  "recent_items": 48,
+  "unique_guids": 59,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/chibis-na-gazone-v-brazilii/",
+      "characters": 5148,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/kino-v-brazilii-yazyk-i-format-seansa/",
       "characters": 5114,
