@@ -5234,5 +5234,107 @@
       "fact_check": "Проверка 21.11.2026: реестр MuseusBr, страница Фонда культуры и датированное объявление Фонда на Платформе культуры SC. Исторический музей: Praça XV de Novembro, 227; художественный: Av. Gov. Irineu Bornhausen, 5600. Часы конкретных выходных и справочный режим разграничены. Часть страниц культуры штата недоступна для чтения; их содержимое не домысливалось, адреса подтверждены в национальном реестре. Тарифы расходящегося каталога Visite Museus не выданы за актуальные.",
       "image_provenance": "Четыре отдельные фотореалистичные генерации встроенным image_gen, каждая просмотрена отдельно. Обобщённые сцены планирования и условных музейных пространств, не документальные изображения названных адресов. Конвертация в отдельные JPEG без изменения пропорций."
     }
+  },
+  {
+    "slug": "restoran-florianopolis-razmer-blyuda",
+    "title": "Ресторан во Флорианополисе: как понять размер блюда и заказать нужное количество",
+    "description": "Порция закуски, индивидуальный обед и блюдо на компанию — разные заказы. На примерах местных меню разбираемся, что входит в подачу и о чём спросить официанта.",
+    "section": "Еда и повседневность",
+    "slot_id": "2026-11-21-evening",
+    "youtube_only_cta": true,
+    "blocks": [
+      {
+        "heading": "Ищите указание на число гостей, а не только слово «порция»",
+        "image": "restoran-florianopolis-razmer-blyuda-1",
+        "alt": "Условный пример общего блюда с рыбой и гарнирами, рядом две пустые тарелки",
+        "paragraphs": [
+          "Представьте: во Флорианополисе вы вдвоём заказываете по одной «порции» рыбы и ещё рис, чтобы получился обед. Но выбранное блюдо уже может быть рассчитано на компанию и включать гарниры. Или наоборот: красивая тарелка с мясом окажется только закуской, а рис к ней нужно заказывать отдельно. Разобраться помогает описание подачи, а не размер фотографии.",
+          "В меню слово porção означает порцию, но само по себе не сообщает, скольких гостей она накормит. Полезнее искать individual — индивидуальное блюдо, para 2 pessoas — на двух человек, либо serve 2 pessoas — рассчитано на двоих. Это ориентир ресторана по подаче, а не гарантия сытости для людей с любым аппетитом.",
+          "Конкретный местный пример — Meu Cantinho, у которого есть заведения во Флорианополисе и Сан-Жозе. На его сайте для заказа по меню предлагаются размеры на одного, двоих или семью. Одновременно там описаны другие форматы обслуживания. Значит, сначала стоит понять, какой раздел меню перед вами: правила одного предложения не обязательно относятся к соседнему.",
+          "Фотографии в этой статье показывают условные варианты подачи и общения за столом, а не реальные блюда или интерьеры названных ресторанов. Для собственного заказа ориентируйтесь на актуальное меню выбранного заведения."
+        ]
+      },
+      {
+        "heading": "Проверьте гарниры до того, как заказывать их отдельно",
+        "image": "restoran-florianopolis-razmer-blyuda-2",
+        "alt": "Условная подача мясных полосок как закуски без риса и других гарниров",
+        "paragraphs": [
+          "Ищите слово acompanhamentos — гарниры и дополнения к основному блюду. Важно не только увидеть список, но и понять, включён ли он в выбранную позицию. Указание «с рисом и салатом» и отдельный раздел гарниров решают разные задачи: первый описывает комплект, второй позволяет добавить что-то к заказу.",
+          "Это хорошо видно на сайте Abrão в районе Жардин-Атлантику во Флорианополисе. В разделах основных мясных блюд и морепродуктов перечислены рис, салат, майонезный салат и картофель фри. А раздел порций-закусок отдельно снабжён примечанием: они не имеют сопровождающих гарниров. Даже внутри одного меню похожий продукт может подаваться по-разному.",
+          "Поэтому сравнивайте целиком две позиции: основное блюдо с гарнирами и закуску без них. Если заказать вторую, а затем добавить всё необходимое отдельно, состав итогового обеда изменится. Не стоит судить о выгоде по одной строке с названием мяса или рыбы, пока непонятно, что именно принесут на стол.",
+          "Вопрос «O que acompanha este prato?» означает «Что подаётся с этим блюдом?». Он полезнее догадки по картинке. Если ответ включает гарниры на выбор, уточните их количество и сразу назовите выбранные: иначе вы ещё не закончили собирать заказ, даже если основное блюдо уже определили."
+        ]
+      },
+      {
+        "heading": "Половина блюда не обязательно означает обед на одного",
+        "image": "restoran-florianopolis-razmer-blyuda-3",
+        "alt": "Условный пример небольшой подачи рыбы с рисом, фасолью и салатом",
+        "paragraphs": [
+          "Ещё одна подсказка — meia porção, половина порции. Но половина считается от конкретной полной подачи, а не от абстрактной нормы для одного человека. Если полное блюдо ресторан предлагает на несколько гостей, уменьшенный вариант тоже может предназначаться не строго одному.",
+          "На сайте Bar do Vadinho в Пантану-ду-Сул полная подача фирменного рыбного обеда обозначена как рассчитанная на троих, а половина — на одного–двоих. Для половины перечислены, в частности, рыбные составляющие, рис, фасоль, картофель фри и салат. Это пример конкретного комплекта, а не правило для всех ресторанов города.",
+          "Практический вывод: рядом с дробью или словом «половина» всё равно ищите описание состава и число гостей. Не переносите размер рыбного обеда на порцию картофеля из раздела дополнений. Два одинаковых значка «½» могут относиться к совершенно разным исходным объёмам.",
+          "Не превращайте оценку ресторана в обещание «нам точно хватит». Если до этого вы уже заказали закуски, основной комплект может оказаться лишним; если это единственная еда за долгое время, потребности будут другими. Сотруднику проще помочь, когда вы говорите, сколько вас и какой заказ уже сделан, а не спрашиваете только «большая ли порция»."
+        ]
+      },
+      {
+        "heading": "Подтвердите размер и состав одним разговором",
+        "image": "restoran-florianopolis-razmer-blyuda-4",
+        "alt": "Условная сцена: двое гостей уточняют у официанта описание блюда в меню",
+        "paragraphs": [
+          "Перед окончательным заказом достаточно собрать три ответа: на сколько гостей рассчитана подача, какие гарниры входят и сколько таких комплектов вы хотите. Например, если в меню указано блюдо на двоих, уточните, что заказываете один общий комплект, а не два одинаковых. Это снимает двусмысленность ещё до кухни.",
+          "Фраза «Este prato serve quantas pessoas?» означает «На сколько человек рассчитано это блюдо?». После ответа можно назвать конкретную позицию и повторить размер, показывая строку меню. Не нужно заучивать длинную речь: название блюда, нужный вариант и число комплектов дают больше ясности, чем уверенное произношение одного знакомого слова.",
+          "Если один из гостей не ест определённый продукт, выясните возможность замены до заказа общего блюда. Не считайте, что гарнир автоматически поменяют или принесут отдельно. Здесь нет универсального обещания: ответ относится к выбранному ресторану и конкретной позиции, а не ко всей бразильской кухне.",
+          "Примеры сайтов проверены 21 ноября 2026 года. Меню может меняться, поэтому состав, размеры и доступность нужного варианта уточняйте по актуальному предложению выбранного филиала. Описание на сайте помогает подготовить вопросы, а ответы перед заказом относятся к вашему конкретному обеду.",
+          "Удобный итог для стола: одна выбранная позиция, понятное число гостей, перечисленные гарниры и точное количество комплектов. Тогда обед начинается с еды, которую вы хотели заказать, а не с попытки выяснить, почему на столе появился лишний рис или не оказалось гарнира."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Больше наблюдений о повседневной жизни в Бразилии — на YouTube-канале «Гео Неважно».",
+      "url": "https://www.youtube.com/@geonevazhno",
+      "label": "Перейти на канал"
+    },
+    "sources": [
+      "https://meucantinhochurrascaria.com.br/",
+      "https://abraochurrascaria.com.br/",
+      "https://www.bardovadinho.com.br/"
+    ],
+    "source_labels": [
+      "Meu Cantinho: размеры подачи и форматы заказа",
+      "Abrão: основные блюда и порции без гарниров",
+      "Bar do Vadinho: полная и половинная подача рыбного обеда"
+    ],
+    "checked_at": "2026-11-21",
+    "editorial_score": 89,
+    "image_prompts": [
+      "Photorealistic-natural editorial dining photograph, full frame horizontal 16:9. ONE IMAGE = ONE DESIGN. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. One coherent table setting in a generic modest Brazilian coastal restaurant: a single oval serving platter of freshly grilled fish fillets in the center, separate small serving bowls of white rice and green salad nearby, two empty individual dinner plates at two places, plain glasses of water, simple cutlery. The food is an illustrative shared meal, not an actual dish of any named restaurant. Warm natural daylight, ordinary wooden table, soft coastal greenery blurred behind, realistic modest serving sizes, no text, no logos, no prices, no branded objects, no recognizable restaurant interior, no people.",
+      "Photorealistic-natural editorial food photograph, full frame horizontal 16:9. ONE IMAGE = ONE DESIGN. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. One simple round ceramic plate of grilled beef strips served as a snack in a generic Brazilian restaurant, with only a tiny dipping sauce ramekin, no rice, no salad, no potatoes or side dishes on the table. Modest natural quantity with realistic seared edges, plain wooden table, one fork and knife nearby, warm window daylight, shallow depth of field, natural appetizing texture. Illustrative dish, not a named restaurant's actual serving. No prices, no text, no brands, no logos, no human hands, no identifiable real venue.",
+      "Photorealistic-natural editorial food photograph, full-frame horizontal 16:9. ONE IMAGE = ONE DESIGN. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. One modest individual lunch serving on a plain white ceramic plate in an ordinary Brazilian coastal restaurant: two small golden pan-fried fish pieces, a neat modest portion of white rice, brown beans and a few tomato and lettuce pieces, all on a single plate. Water glass and folded paper napkin on a clean wooden table, soft daylight. Realistic ordinary portion without exaggerated abundance, not fine dining. This is a generic illustrative meal, not an exact menu item of a named venue. No text, no logos, no prices, no branding, no people, no inset, no side-by-side comparison.",
+      "Photorealistic-natural editorial lifestyle photograph in a generic modest Brazilian restaurant, full-frame horizontal 16:9. ONE IMAGE = ONE DESIGN. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. Two adult guests seated at a wooden table, seen from a natural diagonal angle, politely asking an adult waiter a question while pointing gently at an open plain paper menu. Menu lettering is tiny blurred and unreadable, no invented visible prices. Friendly calm interaction before ordering, no food yet on table, just water glasses, realistic hands and human proportions. Soft evening window light, neutral ordinary restaurant interior with no logos or recognizable real venue, no text overlay, no brands. Not an actual named restaurant or documented event."
+    ],
+    "editorial_review": {
+      "title_candidates": [
+        "Ресторан во Флорианополисе: как понять размер блюда и заказать нужное количество",
+        "Заказ в ресторане Флорианополиса: на сколько гостей рассчитано блюдо",
+        "Обед во Флорианополисе: как проверить размер подачи и включённые гарниры"
+      ],
+      "scores": {
+        "headline": 19,
+        "utility_local_context": 23,
+        "structure": 18,
+        "clarity": 13,
+        "accuracy": 9,
+        "cta": 7
+      },
+      "corrections": [
+        "Убрана гарантия сытости по числу гостей; указание меню названо ориентиром подачи.",
+        "Разграничены основное блюдо, порция-закуска и половина конкретного комплекта.",
+        "Примеры привязаны к действующим публичным страницам ресторанов, а не к недоступному PDF из поиска.",
+        "Иностранные термины оставлены внутри текста с переводом при первом упоминании; заголовок и подзаголовки по-русски.",
+        "Иллюстративные блюда явно отделены от реальной подачи заведений; не заявлены личные посещения, актуальные цены и наличие."
+      ],
+      "fact_check": "Проверено 21.11.2026 по трём собственным сайтам ресторанов. Meu Cantinho: размеры на одного, двоих и семью. Abrão: в разделе Porções указано отсутствие гарниров, в основных блюдах гарниры перечислены. Bar do Vadinho: полный рыбный обед на троих, половина на одного–двоих. Данные о цене, часах, вкусовом качестве и фактическом наличии не перенесены.",
+      "image_provenance": "Четыре самостоятельные генерации встроенным image_gen, каждая просмотрена отдельно. Обобщённые фотореалистичные блюда и сцена разговора, без выдачи за фото названных заведений или авторского опыта. Отдельные JPEG с сохранением исходных пропорций."
+    }
   }
 ]

@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-21T12:00:44.526921+00:00",
-  "items": 61,
-  "images": 245,
-  "recent_items": 49,
-  "unique_guids": 61,
+  "checked_at": "2026-11-21T21:02:14.911343+00:00",
+  "items": 62,
+  "images": 249,
+  "recent_items": 50,
+  "unique_guids": 62,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/restoran-florianopolis-razmer-blyuda/",
+      "characters": 5645,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/muzei-florianopolisa-adresa-i-vremya/",
       "characters": 5814,
