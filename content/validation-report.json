@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-20T21:06:44.259049+00:00",
-  "items": 60,
-  "images": 241,
+  "checked_at": "2026-11-21T12:00:44.526921+00:00",
+  "items": 61,
+  "images": 245,
   "recent_items": 49,
-  "unique_guids": 60,
+  "unique_guids": 61,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/muzei-florianopolisa-adresa-i-vremya/",
+      "characters": 5814,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/guava-v-brazilii-vybor-i-hranenie/",
       "characters": 5499,
