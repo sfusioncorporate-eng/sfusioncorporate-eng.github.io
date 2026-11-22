@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-22T12:08:41.220580+00:00",
-  "items": 63,
-  "images": 253,
-  "recent_items": 51,
-  "unique_guids": 63,
+  "checked_at": "2026-11-22T21:01:47.647574+00:00",
+  "items": 64,
+  "images": 257,
+  "recent_items": 52,
+  "unique_guids": 64,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/shtory-v-brazilii-shirina-i-karniz/",
+      "characters": 5639,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/kapibary-v-parkah-brazilii/",
       "characters": 5811,
