@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-21T21:02:14.911343+00:00",
-  "items": 62,
-  "images": 249,
-  "recent_items": 50,
-  "unique_guids": 62,
+  "checked_at": "2026-11-22T12:08:41.220580+00:00",
+  "items": 63,
+  "images": 253,
+  "recent_items": 51,
+  "unique_guids": 63,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/kapibary-v-parkah-brazilii/",
+      "characters": 5811,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/restoran-florianopolis-razmer-blyuda/",
       "characters": 5645,
