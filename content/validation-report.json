@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-22T21:01:47.647574+00:00",
-  "items": 64,
-  "images": 257,
-  "recent_items": 52,
-  "unique_guids": 64,
+  "checked_at": "2026-11-23T12:11:49.933043+00:00",
+  "items": 65,
+  "images": 261,
+  "recent_items": 53,
+  "unique_guids": 65,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/ozera-florianopolisa-laguna-i-presnaya-voda/",
+      "characters": 5442,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/shtory-v-brazilii-shirina-i-karniz/",
       "characters": 5639,

@@ -5546,5 +5546,110 @@
       "fact_check": "Проверено 22.11.2026 по собственным страницам Bella Janela, Espaço da Cortina и Lojas Torra. Gênova: два полотна 2,10 м, общая ширина 4,20 м, высота 2,80 м, штанга до 2 м, штанга не включена. Inove: направляющая trilho suíço, она не включена, заявлено до 70% блокирования света. Длина направляющей в этой карточке противоречива, поэтому исключена из рекомендации. Torra: одна штора из двух частей. Цены, наличие, сроки доставки и установка в конкретной квартире не обещаны.",
       "image_provenance": "Четыре отдельные фотореалистичные генерации встроенным image_gen, каждая просмотрена отдельно. Обобщённые шторы, комплект ткани, люверсы и сцена выбора без выдачи за реальные товары или адреса. Отдельные JPEG только преобразованы из генераций с сохранением пропорций."
     }
+  },
+  {
+    "slug": "ozera-florianopolisa-laguna-i-presnaya-voda",
+    "title": "Озёра Флорианополиса: почему одно связано с морем, а другое остаётся пресным",
+    "description": "Лагоа-да-Консейсан и Пери похожи названиями, но устроены по-разному. Как увидеть связь с океаном на карте и понять, что именно находится перед вами.",
+    "section": "География и путешествия",
+    "slot_id": "2026-11-23-morning",
+    "youtube_only_cta": true,
+    "blocks": [
+      {
+        "heading": "Спокойная вода ещё не означает пресное озеро",
+        "image": "ozera-florianopolisa-laguna-i-presnaya-voda-1",
+        "alt": "Обобщённый пейзаж прибрежной лагуны с тихой водой и лесистыми холмами",
+        "paragraphs": [
+          "Представьте: вы выбираете место для прогулки во Флорианополисе, видите на карте большое озеро, а на снимках — спокойную воду между зелёными холмами. Океан будто остался за полосой суши. Легко решить, что перед вами обычный пресный водоём. Но для Лагоа-да-Консейсан такое предположение будет ошибкой.",
+          "У этой лагуны есть водная связь с морем. Рядом на том же острове находится Пери — уже пресное озеро. Сравнение этих двух мест помогает читать карту точнее: замечать устройство берега и понимать, почему похожие названия не обещают одинаковую воду.",
+          "На португальских картах оба названия содержат lagoa — слово, которым называют озёра и прибрежные водоёмы. Лагоа-да-Консейсан обозначена как Lagoa da Conceição, а озеро Пери — как Lagoa do Peri. Само общее слово не сообщает, поступает ли туда морская вода. В научной статье 2006 года исследователи отдельно объяснили: Консейсан технически является лагуной, поскольку сообщается с морем.",
+          "Здесь полезно развести название и устройство места. Название сохраняется в путеводителях и на указателях, а связь с океаном приходится искать отдельно. Иллюстрации в этой статье показывают обобщённые прибрежные и озёрные пейзажи, а не точные панорамы названных мест."
+        ]
+      },
+      {
+        "heading": "Канал показывает связь лагуны с океаном",
+        "image": "ozera-florianopolisa-laguna-i-presnaya-voda-2",
+        "alt": "Обобщённый вид прибрежного канала, открывающегося к океану",
+        "paragraphs": [
+          "У Лагоа-да-Консейсан ключевая деталь — канал Барра-да-Лагоа, на карте Canal da Barra da Lagoa. Через него лагуна соединяется с Атлантикой. Поэтому при взгляде на её широкую водную поверхность стоит мысленно продолжить маршрут воды: узкий канал — тоже часть системы, хотя на общем плане он выглядит гораздо скромнее самой лагуны.",
+          "Это не только линия на карте. Федеральный институт Санта-Катарины в публикации июня 2023 года описал исследование трёх участков канала. Исследовательницы сравнивали пробы при движении воды в сторону лагуны и в сторону моря. При поступлении воды из океана они фиксировали больший приток солёной воды в канал.",
+          "Для читателя здесь важен сам обмен: лагуна не отделена от моря наглухо. Но из этих наблюдений нельзя вывести постоянную солёность для каждого её берега или точное направление течения на выбранный час. Исследование отдельных проб не превращается в универсальное расписание движения воды.",
+          "И дата имеет значение. Сообщение 2023 года помогает понять работу канала, но не описывает состояние воды сегодня. В этой статье оно используется именно как свидетельство водообмена. Если пересказывать его без года и границ исследования, получится уже совсем другое, неоправданно широкое утверждение."
+        ]
+      },
+      {
+        "heading": "Пери — другой водоём с другим значением для города",
+        "image": "ozera-florianopolisa-laguna-i-presnaya-voda-3",
+        "alt": "Обобщённый пейзаж пресного озера среди атлантического леса",
+        "paragraphs": [
+          "Озеро Пери даёт наглядный контраст. В сообщении от 3 ноября 2025 года водоснабжающая компания штата CASAN прямо описывает его как пресноводное и подчёркивает роль в водоснабжении Флорианополиса. Поэтому переносить на него объяснение про морской обмен Консейсан было бы неверно, несмотря на одинаковое слово в названиях.",
+          "У этого различия есть городской масштаб. Пери важно как источник воды, а не только как красивое пятно на туристической карте. Муниципальная страница охраняемой территории называет защиту водосборного бассейна для общественного водоснабжения одной из её целей. Водосборный бассейн — территория, с которой вода стекает к общему водоёму.",
+          "На официальном сайте территория представлена как муниципальный памятник природы Лагоа-ду-Пери. Среди охраняемых экосистем указаны влажный лес и прибрежная растительность. Это помогает воспринимать озеро вместе с окружающей сушей: охрана воды связана с тем, что происходит вокруг неё, а не заканчивается на линии берега.",
+          "Для сравнения не нужны рейтинги «самое чистое» или «самое большое». Достаточно двух установленных различий: у Консейсан есть канал обмена с морем, а Пери — пресноводный источник, значимый для городской системы водоснабжения. Это уже содержательное объяснение двух мест вместо общего описания «озеро среди холмов»."
+        ]
+      },
+      {
+        "heading": "Как увидеть разницу до поездки",
+        "image": "ozera-florianopolisa-laguna-i-presnaya-voda-4",
+        "alt": "Условный путешественник рассматривает водоём с деревянной площадки",
+        "paragraphs": [
+          "Откройте карту так, чтобы были видны весь водоём и соседний участок побережья. У Консейсан найдите канал и проследите его до океана. Затем приблизьте карту: так проще понять, где широкая лагуна переходит в узкую водную связь. Один крупный план красивого берега эту связь обычно оставляет за кадром.",
+          "С Пери начните с другого вопроса: где проходит окружающая озеро охраняемая территория? Для этого полезнее муниципальное описание памятника природы, чем подпись к случайной фотографии. Получатся два разных способа познакомиться с местом: через связь с океаном и через значение пресной воды для города.",
+          "Не пытайтесь определить солёность по оттенку на снимке. Проект исследований Лагоа-да-Консейсан описывает её как солоноватую лагуну, связанную с океаном каналом. Это характеристика водной системы, а не обещание одинакового состава воды повсюду. Фотография показывает пейзаж; сведения о нём дают карта и исследования.",
+          "Если собираете маршрут, подпишите две точки по смыслу: «Консейсан — лагуна с выходом к морю» и «Пери — пресное озеро». Тогда одинаковое слово в названии перестанет сбивать с толку. А у прогулки появится конкретная тема для наблюдения: как вода связана с окружающей сушей и какую роль это место играет на острове."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Больше о жизни в Бразилии — на YouTube-канале «Гео Неважно».",
+      "url": "https://www.youtube.com/@geonevazhno",
+      "label": "Смотреть канал"
+    },
+    "sources": [
+      "https://www.scielo.br/j/esa/a/QgPGMnyNwmVdG3FkSwrMhSK/",
+      "https://www.ifsc.edu.br/web/noticias/w/pesquisa-revela-aspectos-positivos-quanto-a-qualidade-da-agua-no-canal-da-barra-da-lagoa-",
+      "https://www.casan.com.br/noticia/index/url/contribuicao-financeira-ambiental-colabora-com-conservacao-do-parque-do-peri-e-lagoa-da-conceicao",
+      "https://redeplanejamento.pmf.sc.gov.br/pt-BR/programas/uc-lagoaperi",
+      "https://seslagoa.com.br/conheca-mais-sobre-a-lagoa/"
+    ],
+    "source_labels": [
+      "Научная статья о Лагоа-да-Консейсан, 2006",
+      "Исследование канала: сообщение института, июнь 2023",
+      "CASAN о пресной воде Пери, ноябрь 2025",
+      "Муниципальное описание охраняемой территории Пери",
+      "Исследовательский проект о системе Лагоа-да-Консейсан"
+    ],
+    "checked_at": "2026-11-23",
+    "editorial_score": 88,
+    "image_prompts": [
+      "Photorealistic-natural editorial coastal geography illustration, full-frame horizontal 16:9. ONE IMAGE = ONE DESIGN. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. A broad sheltered coastal lagoon in southern Brazil seen from a quiet public shoreline, gently rippling blue-green water, distant forested low hills, a few tiny modest boats far away, subtle ordinary houses on distant shore, natural subtropical vegetation. Soft morning daylight, realistic humidity and atmospheric depth. Generic illustrative lagoon landscape, NOT an exact view of Lagoa da Conceicao or any real address; no recognizable landmarks. No map, no arrows, no labels, no text, no logos, no people, no dramatic waves, no unrealistic tropical cliffs.",
+      "Photorealistic editorial coastal geography illustration, one full horizontal 16:9 canvas. ONE IMAGE = ONE DESIGN. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. Elevated oblique view of a single narrow winding tidal channel through low coastal sandy terrain and green subtropical vegetation in southern Brazil, opening toward a broad blue ocean in the distance. Natural realistic connected waterway, small ordinary houses along part of one bank, gentle daylight, documentary travel photography detail. This is a generic illustrative coastal inlet, NOT an accurate panorama or map of Barra da Lagoa or any real location. No recognizable landmarks, no boats required, no people, no labels, no text, no arrows, no drawn graphics, no exaggerated waves.",
+      "Photorealistic editorial nature illustration, a single full-frame horizontal 16:9 image. ONE IMAGE = ONE DESIGN. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. A quiet freshwater lake surrounded by dense Atlantic forest in southern Brazil, seen from its low sandy shore, rounded forested hills, softly rippling dark blue water reflecting sky, ordinary native subtropical forest vegetation. Soft bright overcast daylight, natural colors and physically realistic scale, documentary landscape photography. Generic illustrative lake scene, NOT an exact photograph or panorama of Lagoa do Peri or a recognizable real place. No ocean visible, no buildings, no people, no text, no labels, no logos, no fantasy mountains, no exaggerated tropical cliffs.",
+      "Photorealistic editorial travel geography illustration, ONE IMAGE = ONE DESIGN. One single full-frame horizontal 16:9 photograph. NO COLLAGE, NO GRID, NO CONTACT SHEET, NO SPLIT SCREEN, NO MULTIPLE PANELS. Back view of one adult traveler wearing a simple light blue shirt, standing on an ordinary low wooden lakeside overlook and calmly observing a wide lagoon and low forested hills in southern Brazil. Hands resting naturally on the plain wooden railing, no phone, no notebook, no props. Natural soft afternoon light, understated documentary photography, anatomically correct hands and body, quiet believable environment. Generic illustrative scene, not a real recognizable viewpoint or a precise panorama of Florianopolis. No text, no labels, no logos, no dramatic cliffs or waterfalls."
+    ],
+    "editorial_review": {
+      "title_candidates": [
+        "Озёра Флорианополиса: почему одно связано с морем, а другое остаётся пресным",
+        "Флорианополис: как отличить морскую лагуну от пресного озера на карте",
+        "Лагоа-да-Консейсан во Флорианополисе: почему спокойная вода связана с морем"
+      ],
+      "scores": {
+        "headline": 19,
+        "utility_local_context": 22,
+        "structure": 18,
+        "clarity": 13,
+        "accuracy": 9,
+        "cta": 7
+      },
+      "corrections": [
+        "Выбран понятный русский заголовок без незнакомых португальских терминов; оригинальные названия даны внутри с объяснением.",
+        "Наблюдения института 2023 года ограничены описанием водообмена; исключено утверждение о качестве воды сегодня.",
+        "Убраны спорные длины канала и числа потребителей; свежесть и солёность не выводятся из цвета воды.",
+        "Разделены Консейсан и Пери; статья не повторяет темы прогноза приливов и выбора места для купания.",
+        "Обобщённые иллюстрации подписаны без утверждения, что это точные виды реальных мест."
+      ],
+      "fact_check": "23.11.2026 проверены научная статья 2006 года, первичная публикация IFSC 20.06.2023 (обновлена 23.06.2023), CASAN 03.11.2025, муниципальная страница (редакция 24.07.2025), исследовательский проект SES Lagoa. Географические связи отделены от изменчивых показателей. Текущие качество воды, расписание течений, маршруты и доступ не заявляются.",
+      "image_provenance": "Четыре отдельные генерации встроенным image_gen, по одному сюжету 16:9. Каждое изображение осмотрено отдельно: артефактов и текста не обнаружено. Обобщённые пейзажи и условный путешественник; не документальные виды Консейсан, Барра-да-Лагоа и Пери."
+    }
   }
 ]
