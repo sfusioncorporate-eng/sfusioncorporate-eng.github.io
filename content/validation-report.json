@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-23T12:11:49.933043+00:00",
-  "items": 65,
-  "images": 261,
-  "recent_items": 53,
-  "unique_guids": 65,
+  "checked_at": "2026-11-24T12:07:44.420894+00:00",
+  "items": 66,
+  "images": 265,
+  "recent_items": 51,
+  "unique_guids": 66,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/banany-v-brazilii-svezhie-i-dlya-prigotovleniya/",
+      "characters": 5575,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/ozera-florianopolisa-laguna-i-presnaya-voda/",
       "characters": 5442,
