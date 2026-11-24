@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-24T12:07:44.420894+00:00",
-  "items": 66,
-  "images": 265,
+  "checked_at": "2026-11-24T22:25:42.727552+00:00",
+  "items": 67,
+  "images": 269,
   "recent_items": 51,
-  "unique_guids": 66,
+  "unique_guids": 67,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/kreposti-florianopolisa-po-sushe-i-na-lodke/",
+      "characters": 5686,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/banany-v-brazilii-svezhie-i-dlya-prigotovleniya/",
       "characters": 5575,
