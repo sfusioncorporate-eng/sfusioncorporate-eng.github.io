@@ -1,11 +1,16 @@
 {
-  "checked_at": "2026-11-24T22:25:42.727552+00:00",
-  "items": 67,
-  "images": 269,
-  "recent_items": 51,
-  "unique_guids": 67,
+  "checked_at": "2026-11-27T21:02:19.216752+00:00",
+  "items": 68,
+  "images": 273,
+  "recent_items": 47,
+  "unique_guids": 68,
   "live_resources_checked": 0,
   "articles": [
+    {
+      "url": "https://sfusioncorporate-eng.github.io/articles/zheltye-derevya-brazilii-tsvetenie-bez-listev/",
+      "characters": 5681,
+      "images": 4
+    },
     {
       "url": "https://sfusioncorporate-eng.github.io/articles/kreposti-florianopolisa-po-sushe-i-na-lodke/",
       "characters": 5686,
